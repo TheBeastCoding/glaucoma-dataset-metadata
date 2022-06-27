@@ -11,6 +11,7 @@ Public multi-channel benchmark dataset for Glaucoma classification.
 - sjchoi86-HRF
 - BEH
 - REFUGE1-TRAIN
+- REFUGE1-VAL
 - DR-HAGIS
 - CRFO-v4
 - JSEIC-1000
