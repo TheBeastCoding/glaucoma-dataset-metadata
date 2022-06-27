@@ -16,8 +16,8 @@ Public multi-channel benchmark dataset for Glaucoma classification.
 - JSEIC-1000
 
 ## Benchmark Dataset File Structure
-- Suspect
-  - Suspect Instance 1
+- Glaucoma Suspect
+  - Glaucoma Suspect Instance 1
     - channel image data (fundus, oct, optic disc, ...)
   - ...
 - Glaucoma
