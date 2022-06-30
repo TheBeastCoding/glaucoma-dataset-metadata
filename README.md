@@ -69,3 +69,10 @@ Public multi-channel benchmark dataset for Glaucoma classification.
 - isColor: If reported fundus image is in color; 0 = grayscale, 1 = color (if reported)
 - oct_od_seg: File path of the OCT Optic Disc segmentation map (if any)
 - oct_oc_seg: File path of the OCT Optic Cup segmentation map (if any)
+- foveaX: X Coordinate of the Fovea in the Fundus Image
+- foveaY: Y Coordinate of the Fovea in the Fundus Image
+- papCenterX_expert1/2: ?
+- papCenterX_expert1/2: ?
+- vesOriginX_expert1/2: X Coordinate of the Optic Nerve Head Origin in the Fundus Image Given by Expert 1 or 2
+- vesOriginY_expert1/2: Y Coordinate of the Optic Nerve Head Origin in the Fundus Image Given by Expert 1 or 2
+- diskDiameter_expert1/2: Diameter of the Optic Disk from the Fundus image Given by Expert 1 or 2
