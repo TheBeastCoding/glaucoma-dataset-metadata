@@ -32,6 +32,9 @@ Public multi-channel benchmark dataset for Glaucoma classification.
 - metadata.csv
   - complete documentation of instance attributes (sex, age, eye, ...)
 
+## Special Dataset Collection Method Notes
+- DRISHTI-GS1: This dataset has 4 experts give each image a glaucoma classification label. Images are included in this dataset only if the majority (3 or 4 experts) agree on a label. The rest are discarded.
+
 ## Instance Image Data Channel Options (Note: for segmentation maps, white pixels represent area of interest)
 - Fundus Image
 - OCT Image: Optical Coherence Tomography B-Scan
