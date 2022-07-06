@@ -1,6 +1,9 @@
 # glaucoma-benchmark
 Public multi-channel benchmark dataset for Glaucoma classification.
 
+## Objective
+The objective of this glaucoma benchmark dataset is to compile all available public datasets with glaucoma labels 
+
 ## The following datasets were used in the creation of this benchmark dataset.
 - ACRIMA
 - OIA-ODIR-TRAIN
