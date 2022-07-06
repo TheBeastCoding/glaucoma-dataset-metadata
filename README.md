@@ -2,7 +2,7 @@
 Public multi-channel benchmark dataset for Glaucoma classification.
 
 ## Objective
-The objective of this glaucoma benchmark dataset is to compile all available public datasets with glaucoma labels 
+The objective of this glaucoma benchmark dataset is to compile all available public glaucoma datasets into a single large dataset. This dataset will standardize image metadata and multi-modal image/segmentation data into machine-learning-ready data. Additionally, the benchmark dataset will provide dataset-level metadata related to the image collection study for metadata analysis. All dataset instances have the following linking constraint: the optic nerve head cropped fundus image. 
 
 ## The following datasets were used in the creation of this benchmark dataset.
 - ACRIMA
@@ -98,3 +98,7 @@ The objective of this glaucoma benchmark dataset is to compile all available pub
 - cdr_expert2: CDR estimation from expert 2
 - cdr_expert3: CDR estimation from expert 3
 - cdr_expert4: CDR estimation from expert 4
+
+## Original Public Dataset Sources and Citations
+
+## Cite this dataset
