@@ -1,4 +1,4 @@
-# glaucoma-benchmark
+# multichannel-glaucoma-benchmark-dataset
 Public multi-channel benchmark dataset for Glaucoma classification.
 
 ## Objective
