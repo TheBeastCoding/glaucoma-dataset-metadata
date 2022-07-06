@@ -15,6 +15,8 @@ Public multi-channel benchmark dataset for Glaucoma classification.
 - DR-HAGIS
 - CRFO-v4
 - JSEIC-1000
+- DRISHTI-GS1-train
+- DRISHTI-GS1-test
 
 ## Benchmark Dataset File Structure
 - Glaucoma Suspect
@@ -50,13 +52,13 @@ Public multi-channel benchmark dataset for Glaucoma classification.
 
 ## Metadata CSV Attribute Listing and Explaination
 - Names: Instance name; includes database name and instance number
-- Types: Glaucoma classification types; 0 = healthy, 1 = glaucoma suspect; 2 = glaucoma
+- Types: Majority Consensus of the Glaucoma classification; 0 = healthy, 1 = glaucoma suspect; 2 = glaucoma
 - Database: Name of original database that instance was pulled from
 - Original Name: The original name or derived name using the terminology of the original database
 - ONH: File path of the Optic Nerve Head image (if any)
 - Fundus: File path of the fundus image (if any)
-- fundus_od_seg: File path of the fundus Optic Disc segmentation map (if any)
-- fundus_oc_seg: File path of the fundus Optic Cup segmentation map (if any)
+- fundus_od_seg: File path of the fundus Optic Disc segmentation map or soft map if multiple experts annotated (if any)
+- fundus_oc_seg: File path of the fundus Optic Cup segmentation map or soft map if multiple experts annotated (if any)
 - fov_seg: File path of the fundus Field of View segmentation map (if any)
 - bv_seg: File path of the fundus Blood Vessel segmentation map (if any)
 - artery_seg: File path of the fundus Artery segmentation map (if any)
@@ -79,3 +81,17 @@ Public multi-channel benchmark dataset for Glaucoma classification.
 - vesOriginX_expert1/2: X Coordinate of the Optic Nerve Head Origin in the Fundus Image Given by Expert 1 or 2
 - vesOriginY_expert1/2: Y Coordinate of the Optic Nerve Head Origin in the Fundus Image Given by Expert 1 or 2
 - diskDiameter_expert1/2: Diameter of the Optic Disk from the Fundus image Given by Expert 1 or 2
+- notchI_present: Is notching present in the Inferior Fundus quandrant?
+- notchS_present: Is notching present in the Superior Fundus quandrant?
+- notchN_present: Is notching present in the Nasal Fundus quandrant?
+- notchT_present: Is notching present in the Temporal Fundus quandrant?
+- expert1_grade: Glaucoma classification from expert 1; 0 = healthy, 1 = glaucoma suspect; 2 = glaucoma
+- expert2_grade: Glaucoma classification from expert 2; 0 = healthy, 1 = glaucoma suspect; 2 = glaucoma
+- expert3_grade: Glaucoma classification from expert 3; 0 = healthy, 1 = glaucoma suspect; 2 = glaucoma
+- expert4_grade: Glaucoma classification from expert 4; 0 = healthy, 1 = glaucoma suspect; 2 = glaucoma
+- expert5_grade: Glaucoma classification from expert 5; 0 = healthy, 1 = glaucoma suspect; 2 = glaucoma
+- cdr_avg: Average CDR estimation from all experts
+- cdr_expert1: CDR estimation from expert 1
+- cdr_expert2: CDR estimation from expert 2
+- cdr_expert3: CDR estimation from expert 3
+- cdr_expert4: CDR estimation from expert 4
