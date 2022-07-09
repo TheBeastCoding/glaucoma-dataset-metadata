@@ -4,6 +4,9 @@ Public multi-channel benchmark dataset for Glaucoma classification.
 ## Objective
 The objective of this glaucoma benchmark dataset is to compile all available public glaucoma datasets into a single large dataset. This dataset will standardize image metadata and multi-modal image/segmentation data into machine-learning-ready data. Additionally, the benchmark dataset will provide dataset-level metadata related to the image collection study for metadata analysis. All dataset instances have the following linking constraint: the optic nerve head cropped fundus image. 
 
+## Data Access Link
+https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset
+
 ## The following datasets were used in the creation of this benchmark dataset.
 - ACRIMA
 - OIA-ODIR-TRAIN
