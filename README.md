@@ -100,5 +100,144 @@ The objective of this glaucoma benchmark dataset is to compile all available pub
 - cdr_expert4: CDR estimation from expert 4
 
 ## Original Public Dataset Sources and Citations
-
+- ACRIMA
+  - URL: https://figshare.com/s/c2d31f850af14c5b5232
+  - LaTex: @article{arcima,
+  title={CNNs for automatic glaucoma assessment using fundus images: an extensive validation},
+  author={Diaz-Pinto, Andres and Morales, Sandra and Naranjo, Valery and K{\"o}hler, Thomas and Mossi, Jose M and Navea, Amparo},
+  journal={Biomedical engineering online},
+  volume={18},
+  number={1},
+  pages={1--19},
+  year={2019},
+  publisher={Springer}
+}
+- DRISHTI-GS1
+  - URL: https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php
+  - LaTex: @inproceedings{drishti,
+  title={Drishti-gs: Retinal image dataset for optic nerve head (onh) segmentation},
+  author={Sivaswamy, Jayanthi and Krishnadas, SR and Joshi, Gopal Datt and Jain, Madhulika and Tabish, A Ujjwaft Syed},
+  booktitle={2014 IEEE 11th international symposium on biomedical imaging (ISBI)},
+  pages={53--56},
+  year={2014},
+  organization={IEEE}
+}
+- HRF
+  - URL: https://www5.cs.fau.de/research/data/fundus-images/
+  - LaTex: @article{hrf,
+  title={Robust vessel segmentation in fundus images},
+  author={Budai, Attila and Bock, R{\"u}diger and Maier, Andreas and Hornegger, Joachim and Michelson, Georg},
+  journal={International journal of biomedical imaging},
+  volume={2013},
+  year={2013},
+  publisher={Hindawi}
+}
+- REFUGE1
+  - URL: https://refuge.grand-challenge.org/REFUGE2Download/
+  - LaTex: @article{refuge,
+  title={Refuge challenge: A unified framework for evaluating automated methods for glaucoma assessment from fundus photographs},
+  author={Orlando, Jos{\'e} Ignacio and Fu, Huazhu and Breda, Jo{\~a}o Barbosa and van Keer, Karel and Bathula, Deepti R and Diaz-Pinto, Andr{\'e}s and Fang, Ruogu and Heng, Pheng-Ann and Kim, Jeyoung and Lee, JoonHo and others},
+  journal={Medical image analysis},
+  volume={59},
+  pages={101570},
+  year={2020},
+  publisher={Elsevier}
+}
+- RIM-ONE
+  - URL: http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/
+  - LaTex: @inproceedings{rim-one,
+  title={RIM-ONE: An open retinal image database for optic nerve evaluation},
+  author={Fumero, Francisco and Alay{\'o}n, Silvia and Sanchez, Jos{\'e} L and Sigut, Jose and Gonzalez-Hernandez, M},
+  booktitle={2011 24th international symposium on computer-based medical systems (CBMS)},
+  pages={1--6},
+  year={2011},
+  organization={IEEE}
+}
+- RIM-ONE-DL
+  - URL: http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/
+  - LaTex: @article{rim-one-dl,
+  title={RIM-ONE DL: A Unified Retinal Image Database for Assessing Glaucoma Using Deep Learning},
+  author={Batista, Francisco Jos{\'e} Fumero and Diaz-Aleman, Tinguaro and Sigut, Jose and Alayon, Silvia and Arnay, Rafael and Angel-Pereira, Denisse},
+  journal={Image Analysis \& Stereology},
+  volume={39},
+  number={3},
+  pages={161--167},
+  year={2020}
+}
+- BIOMISA
+  - URL: https://data.mendeley.com/datasets/2rnnz5nz74/2
+  - LaTex: @article{biomisa,
+  title={Data on OCT and fundus images for the detection of glaucoma},
+  author={Raja, Hina and Akram, M Usman and Khawaja, Sajid Gul and Arslan, Muhammad and Ramzan, Aneeqa and Nazir, Noman},
+  journal={Data in brief},
+  volume={29},
+  pages={105342},
+  year={2020},
+  publisher={Elsevier}
+}
+- DR-HAGIS
+  - URL: https://personalpages.manchester.ac.uk/staff/niall.p.mcloughlin/
+  - LaTex: @article{drhagis,
+  title={DR HAGIS—a fundus image database for the automatic extraction of retinal surface vessels from diabetic patients},
+  author={Holm, Sven and Russell, Greg and Nourrit, Vincent and McLoughlin, Niall},
+  journal={Journal of Medical Imaging},
+  volume={4},
+  number={1},
+  pages={014503},
+  year={2017},
+  publisher={SPIE}
+}
+- OIA-ODIR
+  - URL: https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
+  - LaTex: @inproceedings{odir,
+  title={A benchmark of ocular disease intelligent recognition: one shot for multi-disease detection},
+  author={Li, Ning and Li, Tao and Hu, Chunyu and Wang, Kai and Kang, Hong},
+  booktitle={International Symposium on Benchmarking, Measuring and Optimization},
+  pages={177--193},
+  year={2020},
+  organization={Springer}
+}
+- JSIEC-1000
+  - URL: https://www.kaggle.com/datasets/linchundan/fundusimage1000
+  - LaTex: @article{jsiec,
+  title={Automatic detection of 39 fundus diseases and conditions in retinal photographs using deep neural networks},
+  author={Cen, Ling-Ping and Ji, Jie and Lin, Jian-Wei and Ju, Si-Tong and Lin, Hong-Jie and Li, Tai-Ping and Wang, Yun and Yang, Jian-Feng and Liu, Yu-Fen and Tan, Shaoying and others},
+  journal={Nature communications},
+  volume={12},
+  number={1},
+  pages={1--13},
+  year={2021},
+  publisher={Nature Publishing Group}
+}
+- sjchoi86-HRF
+  - URL: https://github.com/cvblab/retina_dataset
+  - LaTex: @misc{sjchoi86,
+    title={sjchoi86-HRF Database},
+    author={S. Choi},
+    note={Link : \url{http://github.com/yiweichen04/retina_dataset}}
+}
+- CRFO-v4
+  - URL: https://data.mendeley.com/datasets/trghs22fpg/4
+  - LaTex: N/A
+- BEH
+  - URL: https://github.com/mirtanvirislam/Deep-Learning-Based-Glaucoma-Detection-with-Cropped-Optic-Cup-and-Disc-and-Blood-Vessel-Segmentation/tree/master/Dataset
+  - LaTex: @article{BEH,
+  author={Islam, Mir Tanvir and Mashfu, Shafin T. and Faisal, Abrar and Siam, Sadman Chowdhury and Naheen, Intisar Tahmid and Khan, Riasat},
+  journal={IEEE Access}, 
+  title={Deep Learning-Based Glaucoma Detection With Cropped Optic Cup and Disc and Blood Vessel Segmentation}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={2828-2841},
+  doi={10.1109/ACCESS.2021.3139160}}
+- ORIGA-light
+  - URL: https://www.kaggle.com/datasets/sshikamaru/glaucoma-detection
+  - LaTex: @inproceedings{origa,
+  title={Origa-light: An online retinal fundus image database for glaucoma analysis and research},
+  author={Zhang, Zhuo and Yin, Feng Shou and Liu, Jiang and Wong, Wing Kee and Tan, Ngan Meng and Lee, Beng Hai and Cheng, Jun and Wong, Tien Yin},
+  booktitle={2010 Annual International Conference of the IEEE Engineering in Medicine and Biology},
+  pages={3065--3068},
+  year={2010},
+  organization={IEEE}
+}
 ## Cite this dataset
