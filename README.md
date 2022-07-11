@@ -24,6 +24,13 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
 - DRISHTI-GS1-train
 - DRISHTI-GS1-test
 
+## Pending Datasets
+- BIOMISA
+- INSPIRE-stereo
+- INSPIRE-AVR
+- RIM-ONE-r1 (other versions do not differentiate glaucoma vs glaucoma suspect)
+- EyePACS-AIROGS
+
 ## Benchmark Dataset File Structure
 - Glaucoma Suspect
   - Glaucoma Suspect Instance 1
