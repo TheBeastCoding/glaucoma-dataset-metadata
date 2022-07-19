@@ -26,6 +26,7 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
 - JSEIC-1000
 - DRISHTI-GS1-train
 - DRISHTI-GS1-test
+- KEH
 
 ## Pending Datasets
 - BIOMISA
@@ -33,7 +34,6 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
 - INSPIRE-AVR
 - RIM-ONE-r1 (other versions do not differentiate glaucoma vs glaucoma suspect)
 - EyePACS-AIROGS
-- KEH
 
 ## Benchmark Dataset File Structure
 - Glaucoma Suspect (-1)
@@ -112,6 +112,7 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
 - cdr_expert2: CDR estimation from expert 2
 - cdr_expert3: CDR estimation from expert 3
 - cdr_expert4: CDR estimation from expert 4
+- glaucoma_type: Expert diagnoisis of glaucoma subtype (ex. early glaucoma, advanced glaucoma, open angle, closed angle, ...)
 
 ## Original Public Dataset Sources and Citations
 - ACRIMA
