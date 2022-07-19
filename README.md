@@ -33,7 +33,7 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
 - INSPIRE-AVR
 - RIM-ONE-r1 (other versions do not differentiate glaucoma vs glaucoma suspect)
 - EyePACS-AIROGS
-- KIM
+- KEH
 
 ## Benchmark Dataset File Structure
 - Glaucoma Suspect (-1)
@@ -264,7 +264,7 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
   year={2018},
   organization={Springer}
 }
-- KIM (Kim's Eye Hospital)
+- KEH (Kim's Eye Hospital)
   - URL: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1YRRAC
   - LaTex: @data{DVN/1YRRAC_2018,
   author = {Kim, Ungsoo},
