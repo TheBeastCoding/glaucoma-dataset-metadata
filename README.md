@@ -15,15 +15,15 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
 - OIA-ODIR-TRAIN
 - OIA-ODIR-TEST-ONLINE
 - OIA-ODIR-TEST-OFFLINE
-- HRF
+- HRF (High Resolution Fundus)
 - LES-AV
 - sjchoi86-HRF
 - BEH (Bangladesh Eye Hospital)
-- REFUGE1-TRAIN
-- REFUGE1-VAL
-- DR-HAGIS
+- REFUGE1-TRAIN (Retinal Fundus Glaucoma Challenge 1 Train)
+- REFUGE1-VAL (Retinal Fundus Glaucoma Challenge 1 Validation)
+- DR-HAGIS (Diabetic Retinopathy, Hypertension, Age-related macular degeneration and Glacuoma ImageS)
 - CRFO-v4
-- JSEIC-1000
+- JSEIC-1000 (Joint Shantou International Eye Center)
 - DRISHTI-GS1-train
 - DRISHTI-GS1-test
 - KEH (Kim's Eye Hospital)
