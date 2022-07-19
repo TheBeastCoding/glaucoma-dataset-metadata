@@ -33,6 +33,7 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
 - INSPIRE-AVR
 - RIM-ONE-r1 (other versions do not differentiate glaucoma vs glaucoma suspect)
 - EyePACS-AIROGS
+- KIM
 
 ## Benchmark Dataset File Structure
 - Glaucoma Suspect (-1)
@@ -232,7 +233,7 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
 - CRFO-v4
   - URL: https://data.mendeley.com/datasets/trghs22fpg/4
   - LaTex: N/A
-- BEH
+- BEH (Bangladesh Eye Hospital)
   - URL: https://github.com/mirtanvirislam/Deep-Learning-Based-Glaucoma-Detection-with-Cropped-Optic-Cup-and-Disc-and-Blood-Vessel-Segmentation/tree/master/Dataset
   - LaTex: @article{BEH,
   author={Islam, Mir Tanvir and Mashfu, Shafin T. and Faisal, Abrar and Siam, Sadman Chowdhury and Naheen, Intisar Tahmid and Khan, Riasat},
@@ -262,4 +263,15 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
   pages={65--73},
   year={2018},
   organization={Springer}
+}
+- KIM (Kim's Eye Hospital)
+  - URL: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1YRRAC
+  - LaTex: @data{DVN/1YRRAC_2018,
+  author = {Kim, Ungsoo},
+  publisher = {Harvard Dataverse},
+  title = {{Machine learn for glaucoma}},
+  year = {2018},
+  version = {V1},
+  doi = {10.7910/DVN/1YRRAC},
+  url = {https://doi.org/10.7910/DVN/1YRRAC}
 }
