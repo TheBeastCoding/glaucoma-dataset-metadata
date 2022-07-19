@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
 - HRF
 - LES-AV
 - sjchoi86-HRF
-- BEH
+- BEH (Bangladesh Eye Hospital)
 - REFUGE1-TRAIN
 - REFUGE1-VAL
 - DR-HAGIS
@@ -26,7 +26,7 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
 - JSEIC-1000
 - DRISHTI-GS1-train
 - DRISHTI-GS1-test
-- KEH
+- KEH (Kim's Eye Hospital)
 
 ## Pending Datasets
 - BIOMISA
@@ -275,4 +275,15 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
   version = {V1},
   doi = {10.7910/DVN/1YRRAC},
   url = {https://doi.org/10.7910/DVN/1YRRAC}
+}
+- BEH (Bangladesh Eye Hospital) 
+  - URL: https://github.com/mirtanvirislam/Deep-Learning-Based-Glaucoma-Detection-with-Cropped-Optic-Cup-and-Disc-and-Blood-Vessel-Segmentation/tree/master/Dataset
+  - LaTex: @article{beh,
+  title={Deep learning-based glaucoma detection with cropped optic cup and disc and blood vessel segmentation},
+  author={Islam, Mir Tanvir and Mashfu, Shafin T and Faisal, Abrar and Siam, Sadman Chowdhury and Naheen, Intisar Tahmid and Khan, Riasat},
+  journal={IEEE Access},
+  volume={10},
+  pages={2828--2841},
+  year={2021},
+  publisher={IEEE}
 }
