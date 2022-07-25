@@ -55,17 +55,17 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
 - BIOMISA: This dataset has 4 experts give each image a glaucoma classification label. Images are included in this dataset only if the majority (3 or 4 experts) agree on a label. The rest are discarded.
 
 ## Instance Image Data Channel Options (Note: for segmentation maps, white pixels represent area of interest)
-- Fundus Image
-- OCT Image: Optical Coherence Tomography B-Scan
-- ONH Image: Cropped fundus image showing the Optic Nerve Head and some periperhal area
-- Fundus OD Map: Fundus Optic Disc Segmentation Map
-- Fundus OC Map: Fundus Optic Cup Segmentation Map
-- OCT OD Map: OCT Optic Disc Segmentation Map
-- OCT OC Map: OCT Optic Cup Segmentation Map
-- FOV Map: Fundus Field of View Segmentation Map
-- BV Map: Blood Vessel Segmentation Map
-- Artery Map: Artery Segmentation Map
-- Vein Map: Vein Segmentation Map
+- fundus.*; Fundus Image
+- oct.*; OCT Image: Optical Coherence Tomography B-Scan
+- onh.*; ONH Image: Cropped fundus image showing the Optic Nerve Head and some periperhal area
+- fundus_od.*; Fundus OD Map: Fundus Optic Disc Segmentation Map
+- fundus_oc.*; Fundus OC Map: Fundus Optic Cup Segmentation Map
+- oct_od.*; OCT OD Map: OCT Optic Disc Segmentation Map
+- oct_oc.*; OCT OC Map: OCT Optic Cup Segmentation Map
+- fov.*; FOV Map: Fundus Field of View Segmentation Map
+- bv.*; BV Map: Blood Vessel Segmentation Map
+- artery.*; Artery Map: Artery Segmentation Map
+- vein.*; Vein Map: Vein Segmentation Map
 
 ## Metadata CSV Attribute Listing and Explaination
 - Names: Instance name; includes database name and instance number
