@@ -34,6 +34,7 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
 - INSPIRE-AVR
 - RIM-ONE-r1 (other versions do not differentiate glaucoma vs glaucoma suspect)
 - EyePACS-AIROGS
+- G1020
 
 ## Benchmark Dataset File Structure
 - Glaucoma Suspect (-1)
