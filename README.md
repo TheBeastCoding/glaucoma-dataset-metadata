@@ -114,6 +114,7 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
 - cdr_expert3: CDR estimation from expert 3
 - cdr_expert4: CDR estimation from expert 4
 - glaucoma_type: Expert diagnoisis of glaucoma subtype (ex. early glaucoma, advanced glaucoma, open angle, closed angle, ...)
+- oct:  File path of the Optical coherence tomography image (if any)
 
 ## Original Public Dataset Sources and Citations
 - ACRIMA
