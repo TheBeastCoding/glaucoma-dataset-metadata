@@ -294,3 +294,20 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
   year={2021},
   publisher={IEEE}
 }
+- EyePACS-AIROGS
+  - URL: https://airogs.grand-challenge.org/data-and-challenge/
+  - LaTex: @dataset{eyepacs,
+  author       = {de Vente, Coen and
+                  Vermeer, Koenraad A. and
+                  Jaccard, Nicolas and
+                  van Ginneken, Bram and
+                  Lemij, Hans G. and
+                  Sá‎nchez, Clara I.},
+  title        = {Rotterdam EyePACS AIROGS train set - Part 2/2},
+  month        = dec,
+  year         = 2021,
+  publisher    = {Zenodo},
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.5745834},
+  url          = {https://doi.org/10.5281/zenodo.5745834}
+}
