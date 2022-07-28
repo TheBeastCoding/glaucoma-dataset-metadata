@@ -10,7 +10,7 @@ The objective of this glaucoma benchmark dataset is to compile all available pub
 ## Summary
 - There are 10,709 unique dataset instances with their own unique channel information.
 - 8,228 instaces are non-glaucoma
-- 2,416 instances are glaucoma
+- 5,686 instances are glaucoma
 
 ## Data Access Link
 https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset
@@ -33,13 +33,13 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
 - DRISHTI-GS1-test
 - KEH (Kim's Eye Hospital)
 - G1020
+- EyePACS-AIROGS (Referable Glaucoma Images Only)
 
 ## Pending Datasets
 - BIOMISA
 - INSPIRE-stereo
 - INSPIRE-AVR
 - RIM-ONE-r1 (other versions do not differentiate glaucoma vs glaucoma suspect)
-- EyePACS-AIROGS
 
 ## Benchmark Dataset File Structure
 - Glaucoma Suspect (-1)
