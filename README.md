@@ -50,8 +50,8 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
   - Glaucoma Instance 1
     - channel image data (fundus, oct, optic disc, ...)
   - ...
-- Healthy (0)
-  - Healthy Instance 1
+- Non-Glaucoma (0)
+  - Non-Glaucoma Instance 1
     - channel image data (fundus, oct, optic disc, ...)
   - ...
 - metadata.csv
@@ -75,7 +75,7 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
 
 ## Metadata CSV Attribute Listing and Explaination
 - Names: Instance name; includes database name and instance number
-- Types: Majority Consensus of the Glaucoma classification; 0 = healthy, -1 = glaucoma suspect; 1 = glaucoma
+- Types: Majority Consensus of the Glaucoma classification; 0 = Non-Glaucoma, -1 = glaucoma suspect; 1 = glaucoma
 - Database: Name of original database that instance was pulled from
 - Original Name: The original name or derived name using the terminology of the original database
 - ONH: File path of the Optic Nerve Head image (if any)
@@ -108,11 +108,11 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
 - notchS_present: Is notching present in the Superior Fundus quandrant?
 - notchN_present: Is notching present in the Nasal Fundus quandrant?
 - notchT_present: Is notching present in the Temporal Fundus quandrant?
-- expert1_grade: Glaucoma classification from expert 1; 0 = healthy, -1 = glaucoma suspect; 1 = glaucoma
-- expert2_grade: Glaucoma classification from expert 2; 0 = healthy, -1 = glaucoma suspect; 1 = glaucoma
-- expert3_grade: Glaucoma classification from expert 3; 0 = healthy, -1 = glaucoma suspect; 1 = glaucoma
-- expert4_grade: Glaucoma classification from expert 4; 0 = healthy, -1 = glaucoma suspect; 1 = glaucoma
-- expert5_grade: Glaucoma classification from expert 5; 0 = healthy, -1 = glaucoma suspect; 1 = glaucoma
+- expert1_grade: Glaucoma classification from expert 1; 0 = Non-Glaucoma, -1 = glaucoma suspect; 1 = glaucoma
+- expert2_grade: Glaucoma classification from expert 2; 0 = Non-Glaucoma, -1 = glaucoma suspect; 1 = glaucoma
+- expert3_grade: Glaucoma classification from expert 3; 0 = Non-Glaucoma, -1 = glaucoma suspect; 1 = glaucoma
+- expert4_grade: Glaucoma classification from expert 4; 0 = Non-Glaucoma, -1 = glaucoma suspect; 1 = glaucoma
+- expert5_grade: Glaucoma classification from expert 5; 0 = Non-Glaucoma, -1 = glaucoma suspect; 1 = glaucoma
 - cdr_avg: Average CDR estimation from all experts
 - cdr_expert1: CDR estimation from expert 1
 - cdr_expert2: CDR estimation from expert 2
