@@ -40,6 +40,7 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
 - INSPIRE-stereo
 - INSPIRE-AVR
 - RIM-ONE-r1 (other versions do not differentiate glaucoma vs glaucoma suspect)
+- PAPILA
 
 ## Benchmark Dataset File Structure
 - Glaucoma Suspect (-1)
@@ -310,4 +311,16 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
   version      = {1.0.0},
   doi          = {10.5281/zenodo.5745834},
   url          = {https://doi.org/10.5281/zenodo.5745834}
+}
+- PAPILA
+  - URL: https://doi.org/10.6084/m9.figshare.14798004.v1
+  - LaTex: @article{papila,
+  title={PAPILA: Dataset with fundus images and clinical data of both eyes of the same patient for glaucoma assessment},
+  author={Kovalyk, Oleksandr and Morales-S{\'a}nchez, Juan and Verd{\'u}-Monedero, Rafael and Sell{\'e}s-Navarro, Inmaculada and Palaz{\'o}n-Cabanes, Ana and Sancho-G{\'o}mez, Jos{\'e}-Luis},
+  journal={Scientific Data},
+  volume={9},
+  number={1},
+  pages={1--12},
+  year={2022},
+  publisher={Nature Publishing Group}
 }
