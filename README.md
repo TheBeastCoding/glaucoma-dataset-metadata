@@ -8,9 +8,10 @@ Public multi-channel benchmark dataset for Glaucoma classification.
 The objective of this glaucoma benchmark dataset is to compile all available public glaucoma datasets into a single large dataset. This dataset will standardize image metadata and multi-modal image/segmentation data into machine-learning-ready data. Additionally, the benchmark dataset will provide dataset-level metadata related to the image collection study for metadata analysis. All dataset instances have the following linking constraint: the optic nerve head cropped fundus image. 
 
 ## Summary
-- There are 13,979 unique dataset instances with their own unique channel information.
-- 8,228 instaces are non-glaucoma
-- 5,686 instances are glaucoma
+- There are 14,467 unique dataset instances with their own unique channel information.
+- 8,681 instaces are non-glaucoma
+- 5,773 instances are glaucoma
+- 133 instances are glaucoma suspect
 
 ## Data Access Link
 https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset
@@ -34,13 +35,13 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
 - KEH (Kim's Eye Hospital)
 - G1020
 - EyePACS-AIROGS (Referable Glaucoma Images Only)
+- PAPILA
 
 ## Pending Datasets
 - BIOMISA
 - INSPIRE-stereo
 - INSPIRE-AVR
 - RIM-ONE-r1 (other versions do not differentiate glaucoma vs glaucoma suspect)
-- PAPILA
 
 ## Benchmark Dataset File Structure
 - Glaucoma Suspect (-1)
@@ -121,6 +122,19 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
 - cdr_expert4: CDR estimation from expert 4
 - glaucoma_type: Expert diagnoisis of glaucoma subtype (ex. early glaucoma, advanced glaucoma, open angle, closed angle, ...)
 - oct:  File path of the Optical coherence tomography image (if any)
+- patient_id: ID of the patient (if any) for test/retest cases or left and right eye for same patient
+- refractive_dioptre_1: 
+- refractive_dioptre_2:
+- refractive_astigmatism: 
+- phakic_or_pseudophakic:
+- iop_perkins:
+- iop_pneumatic:
+- pachymetry:
+- axial_length:
+- visual_field_mean_defect:
+- gender:
+- fundus_height:
+- fundus_width:
 
 ## Original Public Dataset Sources and Citations
 - ACRIMA
