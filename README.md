@@ -4,16 +4,22 @@ Public multi-channel benchmark dataset for Glaucoma classification.
 ## Cite this dataset
 - *INSERT CITATION HERE*
 
-## Objective
+## Dataset Survey Objective
+The objective of this glaucoma dataset survey is to document existing datasets and their corresponding metadata and attributes. Please see dataset-metadata.csv.
+
+## Sampled Dataset Objective
+The objective of the the sampeld dataseet is to take a selection of 2 glaucoma samples and 2 non-glaucoma samples from each dataset (if available) and document additional clinical features via expert analysis.
+
+## Standardized Dataset Objective
 The objective of this glaucoma benchmark dataset is to compile all available public glaucoma datasets into a single large dataset. This dataset will standardize image metadata and multi-modal image/segmentation data into machine-learning-ready data. Additionally, the benchmark dataset will provide dataset-level metadata related to the image collection study for metadata analysis. All dataset instances have the following linking constraint: the optic nerve head cropped fundus image. 
 
-## Summary
+## Standardized Dataset Summary
 - There are 14,467 unique dataset instances with their own unique channel information.
 - 8,681 instaces are non-glaucoma
 - 5,773 instances are glaucoma
 - 133 instances are glaucoma suspect
 
-## Data Access Link
+## Standardized Dataset Data Access Link
 https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset
 
 ## The following datasets were used in the creation of this benchmark dataset.
