@@ -1,5 +1,5 @@
-# multichannel-glaucoma-benchmark-dataset
-Public multi-channel benchmark dataset for Glaucoma classification.
+# Public Glaucoma Dataset Catalog and Standardized Glaucoma Dataset
+All public glaucoma datasets are documented and a novel multi-channel benchmark dataset is presented, which standardizes all public glaucoma datasets into a single, large dataset.
 
 ## Cite this dataset
 - *INSERT CITATION HERE*
