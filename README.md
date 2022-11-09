@@ -9,6 +9,25 @@ Public multi-channel benchmark dataset for Glaucoma classification.
 | ------------- | ------------- |
 | ACRIMA  | https://figshare.com/s/c2d31f850af14c5b5232  |
 | DRISHTI-GS1  | https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php  |
+| HRF  | https://www5.cs.fau.de/research/data/fundus-images/  |
+| REFUGE1  | https://refuge.grand-challenge.org/REFUGE2Download/  |
+| REFUGE2  | https://refuge.grand-challenge.org/REFUGE2Download/  |
+| RIM-ONE-r1 | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/  |
+| RIM-ONE-r2 | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/  |
+| RIM-ONE-r3 | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/  |
+| RIM-ONE-DL | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/  |
+| BIOMISA | https://data.mendeley.com/datasets/2rnnz5nz74/2  |
+| DR-HAGIS | https://personalpages.manchester.ac.uk/staff/niall.p.mcloughlin/ |
+| OIA-ODIR | https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k |
+| JSIEC-1000 | https://www.kaggle.com/datasets/linchundan/fundusimage1000 |
+| sjchoi86-HRF | https://github.com/yiweichen04/retina_dataset |
+| CRFO-v4 | https://data.mendeley.com/datasets/trghs22fpg/4 |
+| BEH (Bangladesh Eye Hospital) | https://github.com/mirtanvirislam/Deep-Learning-Based-Glaucoma-Detection-with-Cropped-Optic-Cup-and-Disc-and-Blood-Vessel-Segmentation/tree/master/Dataset |
+| ORIGA-light | https://www.kaggle.com/datasets/sshikamaru/glaucoma-detection |
+| LES-AV | https://figshare.com/articles/dataset/LES-AV_dataset/11857698/1 |
+| KEH (Kim's Eye Hospital) | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1YRRAC |
+| EyePACS-AIROGS | https://airogs.grand-challenge.org/data-and-challenge/ |
+| PAPILA | https://doi.org/10.6084/m9.figshare.14798004.v1 |
 
 ## Dataset Survey Objective
 The objective of this glaucoma dataset survey is to document existing datasets and their corresponding metadata and attributes. Please see dataset-metadata.csv.
