@@ -4,6 +4,12 @@ Public multi-channel benchmark dataset for Glaucoma classification.
 ## Cite this dataset
 - *INSERT CITATION HERE*
 
+## Public Glaucoma Datasets
+| Dataset   | Access Link |
+| ------------- | ------------- |
+| ACRIMA  | https://figshare.com/s/c2d31f850af14c5b5232  |
+| DRISHTI-GS1  | https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php  |
+
 ## Dataset Survey Objective
 The objective of this glaucoma dataset survey is to document existing datasets and their corresponding metadata and attributes. Please see dataset-metadata.csv.
 
