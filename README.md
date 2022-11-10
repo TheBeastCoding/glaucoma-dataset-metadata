@@ -42,6 +42,7 @@ All public glaucoma datasets are documented and a novel multi-channel benchmark 
 | RIM-ONE-DL | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/  | open | Y | N |
 | SIGF | https://github.com/XiaofeiWang2018/DeepGF | request | Y | N |
 | sjchoi86-HRF | https://github.com/yiweichen04/retina_dataset | open | Y | Y |
+| VEIRC | https://github.com/ProfMKD/Glaucoma-dataset | open | Y | N |
 
 ## Dataset Survey Objective
 The objective of this glaucoma dataset survey is to document existing datasets and their corresponding metadata and attributes. Please see dataset-metadata.csv.
