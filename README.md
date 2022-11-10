@@ -8,7 +8,7 @@ All public glaucoma datasets are documented and a novel multi-channel benchmark 
 | Dataset   | Access Link | Accessibility | Glaucoma Labels? | Included in our dataset? |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ACRIMA  | https://figshare.com/s/c2d31f850af14c5b5232  | open | Y | Y |
-| AGE  | https://age.grand-challenge.org/Download/  | open | Y | N |
+| AGE  | https://age.grand-challenge.org/Download/  | registration | Y | N |
 | BEH (Bangladesh Eye Hospital) | https://github.com/mirtanvirislam/Deep-Learning-Based-Glaucoma-Detection-with-Cropped-Optic-Cup-and-Disc-and-Blood-Vessel-Segmentation/tree/master/Dataset | open | Y | Y |
 | BIOMISA | https://data.mendeley.com/datasets/2rnnz5nz74/2  | open | Y | Y |
 | CRFO-v4 | https://data.mendeley.com/datasets/trghs22fpg/4 | open | Y | Y |
@@ -20,19 +20,19 @@ All public glaucoma datasets are documented and a novel multi-channel benchmark 
 | GAMMA | https://gamma.grand-challenge.org/ | registration | Y | N |
 | GOALS | https://goals.grand-challenge.org/ | registration | Y | N |
 | HRF  | https://www5.cs.fau.de/research/data/fundus-images/  | open | Y | Y |
-| JSIEC-1000 | https://www.kaggle.com/datasets/linchundan/fundusimage1000 | open | Y | Y |
+| JSIEC-1000 | https://www.kaggle.com/datasets/linchundan/fundusimage1000 | registration | Y | Y |
 | KEH (Kim's Eye Hospital) | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1YRRAC | open | Y | Y |
 | INSPIRE-AVR-test | https://medicine.uiowa.edu/eye/inspire-datasets | open | N | N |
 | INSPIRE-STEREO | https://medicine.uiowa.edu/eye/inspire-datasets | open | N | N |
 | LAG | https://github.com/smilell/AG-CNN | request | Y | N |
 | LES-AV | https://figshare.com/articles/dataset/LES-AV_dataset/11857698/1 | open | Y | Y |
 | OCTV | https://zenodo.org/record/1481223#.Y20g3XbMIuV | open | Y | N |
-| OIA-ODIR | https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k | open | Y | Y |
+| OIA-ODIR | https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k | registration | Y | Y |
 | ONHSD | https://aldiri.info/Image%20Datasets/ONHSD.aspx | inaccessible | Y | N |
-| ORIGA-light | https://www.kaggle.com/datasets/sshikamaru/glaucoma-detection | open | Y | Y |
+| ORIGA-light | https://www.kaggle.com/datasets/sshikamaru/glaucoma-detection | registration | Y | Y |
 | PAPILA | https://doi.org/10.6084/m9.figshare.14798004.v1 | open | Y | Y |
-| REFUGE1  | https://refuge.grand-challenge.org/REFUGE2Download/  | open | Y | Y |
-| REFUGE2  | https://refuge.grand-challenge.org/REFUGE2Download/  | open | Y | Y |
+| REFUGE1  | https://refuge.grand-challenge.org/REFUGE2Download/  | registration | Y | Y |
+| REFUGE2  | https://refuge.grand-challenge.org/REFUGE2Download/  | registration | Y | Y |
 | RIGA-BIN-RUSHED | https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z  | open | N | N |
 | RIGA-MAGRABI | https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z  | open | N | N |
 | RIGA-MESSIDOR | https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z  | open | N | N |
