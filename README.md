@@ -83,12 +83,6 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
 - EyePACS-AIROGS (Referable Glaucoma Images Only)
 - PAPILA
 
-## Pending Datasets
-- BIOMISA
-- INSPIRE-stereo
-- INSPIRE-AVR
-- RIM-ONE-r1 (other versions do not differentiate glaucoma vs glaucoma suspect)
-
 ## Benchmark Dataset File Structure
 - Glaucoma Suspect (-1)
   - Glaucoma Suspect Instance 1
