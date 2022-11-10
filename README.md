@@ -4,30 +4,44 @@ All public glaucoma datasets are documented and a novel multi-channel benchmark 
 ## Cite this dataset
 - *INSERT CITATION HERE*
 
-## Public Glaucoma Datasets
-| Dataset   | Access Link | Glaucoma Labels? | Included in our dataset? |
-| ------------- | ------------- | ------------- | ------------- |
-| ACRIMA  | https://figshare.com/s/c2d31f850af14c5b5232  | Y | Y |
-| BEH (Bangladesh Eye Hospital) | https://github.com/mirtanvirislam/Deep-Learning-Based-Glaucoma-Detection-with-Cropped-Optic-Cup-and-Disc-and-Blood-Vessel-Segmentation/tree/master/Dataset | Y | Y |
-| BIOMISA | https://data.mendeley.com/datasets/2rnnz5nz74/2  | Y | Y |
-| CRFO-v4 | https://data.mendeley.com/datasets/trghs22fpg/4 | Y | Y |
-| DR-HAGIS | https://personalpages.manchester.ac.uk/staff/niall.p.mcloughlin/ | Y | Y |
-| DRISHTI-GS1  | https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php  | Y | Y |
-| EyePACS-AIROGS | https://airogs.grand-challenge.org/data-and-challenge/ | Y | Y |
-| HRF  | https://www5.cs.fau.de/research/data/fundus-images/  | Y | Y |
-| JSIEC-1000 | https://www.kaggle.com/datasets/linchundan/fundusimage1000 | Y | Y |
-| KEH (Kim's Eye Hospital) | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1YRRAC | Y | Y |
-| LES-AV | https://figshare.com/articles/dataset/LES-AV_dataset/11857698/1 | Y | Y |
-| OIA-ODIR | https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k | Y | Y |
-| ORIGA-light | https://www.kaggle.com/datasets/sshikamaru/glaucoma-detection | Y | Y |
-| PAPILA | https://doi.org/10.6084/m9.figshare.14798004.v1 | Y | Y |
-| REFUGE1  | https://refuge.grand-challenge.org/REFUGE2Download/  | Y | Y |
-| REFUGE2  | https://refuge.grand-challenge.org/REFUGE2Download/  | Y | Y |
-| RIM-ONE-r1 | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/  | Y | N |
-| RIM-ONE-r2 | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/  | Y | N |
-| RIM-ONE-r3 | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/  | Y | N |
-| RIM-ONE-DL | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/  | Y | N |
-| sjchoi86-HRF | https://github.com/yiweichen04/retina_dataset | Y | Y |
+## Public Glaucoma Image Datasets
+| Dataset   | Access Link | Accessibility | Glaucoma Labels? | Included in our dataset? |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ACRIMA  | https://figshare.com/s/c2d31f850af14c5b5232  | open | Y | Y |
+| AGE  | https://age.grand-challenge.org/Download/  | open | Y | N |
+| BEH (Bangladesh Eye Hospital) | https://github.com/mirtanvirislam/Deep-Learning-Based-Glaucoma-Detection-with-Cropped-Optic-Cup-and-Disc-and-Blood-Vessel-Segmentation/tree/master/Dataset | open | Y | Y |
+| BIOMISA | https://data.mendeley.com/datasets/2rnnz5nz74/2  | open | Y | Y |
+| CRFO-v4 | https://data.mendeley.com/datasets/trghs22fpg/4 | open | Y | Y |
+| DR-HAGIS | https://personalpages.manchester.ac.uk/staff/niall.p.mcloughlin/ | open | Y | Y |
+| DRIONS-DB  | https://www.researchgate.net/publication/326460478_Glaucoma_dataset_-_DRIONS-DB  | open | N | N |
+| DRISHTI-GS1  | https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php  | open | Y | Y |
+| EyePACS-AIROGS | https://airogs.grand-challenge.org/data-and-challenge/ | open | Y | Y |
+| G1020 | https://www.kaggle.com/datasets/arnavjain1/glaucoma-datasets | open | Y | Y |
+| GAMMA | https://gamma.grand-challenge.org/ | registration | Y | N |
+| GOALS | https://goals.grand-challenge.org/ | registration | Y | N |
+| HRF  | https://www5.cs.fau.de/research/data/fundus-images/  | open | Y | Y |
+| JSIEC-1000 | https://www.kaggle.com/datasets/linchundan/fundusimage1000 | open | Y | Y |
+| KEH (Kim's Eye Hospital) | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1YRRAC | open | Y | Y |
+| INSPIRE-AVR-test | https://medicine.uiowa.edu/eye/inspire-datasets | open | N | N |
+| INSPIRE-STEREO | https://medicine.uiowa.edu/eye/inspire-datasets | open | N | N |
+| LAG | https://github.com/smilell/AG-CNN | request | Y | N |
+| LES-AV | https://figshare.com/articles/dataset/LES-AV_dataset/11857698/1 | open | Y | Y |
+| OCTV | https://zenodo.org/record/1481223#.Y20g3XbMIuV | open | Y | N |
+| OIA-ODIR | https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k | open | Y | Y |
+| ONHSD | https://aldiri.info/Image%20Datasets/ONHSD.aspx | inaccessible | Y | N |
+| ORIGA-light | https://www.kaggle.com/datasets/sshikamaru/glaucoma-detection | open | Y | Y |
+| PAPILA | https://doi.org/10.6084/m9.figshare.14798004.v1 | open | Y | Y |
+| REFUGE1  | https://refuge.grand-challenge.org/REFUGE2Download/  | open | Y | Y |
+| REFUGE2  | https://refuge.grand-challenge.org/REFUGE2Download/  | open | Y | Y |
+| RIGA-BIN-RUSHED | https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z  | open | N | N |
+| RIGA-MAGRABI | https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z  | open | N | N |
+| RIGA-MESSIDOR | https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z  | open | N | N |
+| RIM-ONE-r1 | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/  | open | Y | N |
+| RIM-ONE-r2 | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/  | open | Y | N |
+| RIM-ONE-r3 | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/  | open | Y | N |
+| RIM-ONE-DL | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/  | open | Y | N |
+| SIGF | https://github.com/XiaofeiWang2018/DeepGF | request | Y | N |
+| sjchoi86-HRF | https://github.com/yiweichen04/retina_dataset | open | Y | Y |
 
 ## Dataset Survey Objective
 The objective of this glaucoma dataset survey is to document existing datasets and their corresponding metadata and attributes. Please see dataset-metadata.csv.
