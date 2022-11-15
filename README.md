@@ -60,7 +60,7 @@ The objective of this glaucoma benchmark dataset is to compile all available pub
 - 133 instances are glaucoma suspect
 
 ## Standardized Dataset Data Access Link
-https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset
+https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset [The dataset will be published in latwe 2022]
 
 ## The following datasets were used in the creation of this benchmark dataset.
 - ACRIMA
