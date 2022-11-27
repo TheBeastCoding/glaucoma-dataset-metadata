@@ -101,6 +101,7 @@ https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dat
 
 ## Special Dataset Collection Method Notes
 - BIOMISA: This dataset has 4 experts give each image a glaucoma classification label. Images are included in this dataset only if the majority (3 or 4 experts) agree on a label. The rest are discarded.
+- Datasets that reported their own fundus FOV segmentation data are discarded. All FOV segmentations are calcualted by our own algorithm.
 
 ## Instance Image Data Channel Options (Note: for segmentation maps, white pixels represent area of interest)
 - fundus.*; Fundus Image
