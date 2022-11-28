@@ -68,8 +68,7 @@ Original Fundus (sjchoi86-HRF) |  Background Cropped and Resized to 512x512 with
 ### Optic Cup/Disc Standardization
 Standardized Fundus Image (Drishti-GS)
 --- | ---
-![fundus](https://user-images.githubusercontent.com/65875562/204174106-efcf4de1-3cc3-4bbc-ac46-8e9d05d46be6.png)
- | ![fundus_standardized](https://user-images.githubusercontent.com/65875562/204173700-c3ce6680-c317-4b6e-a5b0-c30ea7d25339.png)
+![fundus](https://user-images.githubusercontent.com/65875562/204174106-efcf4de1-3cc3-4bbc-ac46-8e9d05d46be6.png) | ![fundus_standardized](https://user-images.githubusercontent.com/65875562/204173700-c3ce6680-c317-4b6e-a5b0-c30ea7d25339.png)
 
 ## Standardized Dataset Data Access Link
 https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset [The dataset will be published in late 2022]
