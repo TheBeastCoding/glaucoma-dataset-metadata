@@ -1,9 +1,9 @@
 # Public Glaucoma Dataset Catalog and Standardized Glaucoma Dataset
 A novel multi-channel benchmark dataset is presented, which compiles and standardizes all image and text metadata from public glaucoma datasets into a single, large dataset. This dataset is has multiple use cases, including single and multi-channel glaucoma classification, optic disc segmentation, optic cup segmentation, and blood vesel segmentation. All dataset instances have at least an optic nerve head (ONH) cropped image.
 
-ONH-Crop (Drishti-GS) |   ONH-Crop (G1020) |   ONH-Crop (ORIGA-light) |   ONH-Crop (REFUGE1-VAL)
---- | --- | --- | ---
-<img src="https://user-images.githubusercontent.com/65875562/204176385-9402294e-7b82-4ea3-a1cd-f44e8423ca4f.png" width="128"> |<img src="https://user-images.githubusercontent.com/65875562/204176473-f95150ed-161a-496e-bf44-5af1fa23d736.jpg" width="128"> | <img src="https://user-images.githubusercontent.com/65875562/204176324-eb665daf-60f0-4333-ae77-b78c8e2d038f.jpg" width="128"> | <img src="https://user-images.githubusercontent.com/65875562/204176603-03c21546-2bcf-4e73-b522-ffdacc61ae91.jpg" width="128">
+ONH-Crop (Drishti-GS) |   ONH-Crop (G1020) |   ONH-Crop (ORIGA-light) |   ONH-Crop (REFUGE1-VAL) |   ONH-Crop (PAPILA)
+--- | --- | --- | --- | ---
+<img src="https://user-images.githubusercontent.com/65875562/204176385-9402294e-7b82-4ea3-a1cd-f44e8423ca4f.png" width="128"> |<img src="https://user-images.githubusercontent.com/65875562/204176473-f95150ed-161a-496e-bf44-5af1fa23d736.jpg" width="128"> | <img src="https://user-images.githubusercontent.com/65875562/204176324-eb665daf-60f0-4333-ae77-b78c8e2d038f.jpg" width="128"> | <img src="https://user-images.githubusercontent.com/65875562/204176603-03c21546-2bcf-4e73-b522-ffdacc61ae91.jpg" width="128"> | <img src="https://user-images.githubusercontent.com/65875562/204176775-c4d557c6-ecfc-49a1-a854-b338f5850337.jpg" width="128">
 
 ## Cite this dataset
 - *INSERT CITATION HERE*
