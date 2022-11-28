@@ -66,11 +66,10 @@ Original Fundus (sjchoi86-HRF) |  Background Cropped and Resized to 512x512 with
 ![fundus](https://user-images.githubusercontent.com/65875562/204170005-2d4dd051-0032-40c8-ba0b-390b6080bb69.png) | ![fundus_cropped](https://user-images.githubusercontent.com/65875562/204170011-51b7d001-4d43-4f0d-835e-984d45116b18.png)
 
 ### Optic Cup/Disc Standardization
-Standardized Fundus Image (Drishti-GS)  | Standardized Optic Cup (Drishti-GS) |  Standardized Optic Disc (Drishti-GS)
+Standardized Fundus Image (Drishti-GS)  | Standardized Optic Cup (Drishti-GS)
 --- | --- | ---
 ![fundus_standardized](https://user-images.githubusercontent.com/65875562/204173700-c3ce6680-c317-4b6e-a5b0-c30ea7d25339.png)
  | ![fundus_oc_standardized](https://user-images.githubusercontent.com/65875562/204173717-a137413d-8604-4504-8888-65cf827c6876.png)
- | ![fundus_od_standardized](https://user-images.githubusercontent.com/65875562/204173729-40ccf29b-b31f-430d-93ee-5189f45b5f16.png)
 
 
 ### Fundus Blood Vessel Standardization
