@@ -67,7 +67,7 @@ Original Fundus (sjchoi86-HRF) |  Background Cropped and Resized to 512x512 with
 
 ### Optic Cup/Disc Standardization
 Standardized Fundus Image (Drishti-GS)  | Standardized Optic Cup (Drishti-GS)
---- | --- | ---
+--- | ---
 ![fundus_standardized](https://user-images.githubusercontent.com/65875562/204173700-c3ce6680-c317-4b6e-a5b0-c30ea7d25339.png)
  | ![fundus_oc_standardized](https://user-images.githubusercontent.com/65875562/204173717-a137413d-8604-4504-8888-65cf827c6876.png)
 
