@@ -59,6 +59,16 @@ The objective of this glaucoma benchmark dataset is to compile all available pub
 - 5,773 instances are glaucoma
 - 133 instances are glaucoma suspect
 
+## Standardization Examples
+### Fundus Standardization Process
+#### Original Fundus
+![fundus](https://user-images.githubusercontent.com/65875562/204170005-2d4dd051-0032-40c8-ba0b-390b6080bb69.png)
+#### Background Cropped
+![fundus_cropped](https://user-images.githubusercontent.com/65875562/204170011-51b7d001-4d43-4f0d-835e-984d45116b18.png)
+#### Resized to 512x512 with Aspect Resolution Preservation
+![fundus_standardized](https://user-images.githubusercontent.com/65875562/204170031-f81ed91c-15bf-4662-aaae-0623123157f9.png)
+
+
 ## Standardized Dataset Data Access Link
 https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset [The dataset will be published in late 2022]
 
