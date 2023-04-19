@@ -3,8 +3,8 @@
 
 
 To ease the accessibilty of glaucoma-related AI research, this repo is designed to quickly navigate and download various public glaucoma datasets. Secondly, this repo details some of the metadata that has been presented in the following articles:
- - AAO 2022, https://aaopt.org/past-meeting-abstract-archives/?SortBy=ArticleYear&ArticleType=&ArticleYear=2022&Title=&Abstract=&Authors=&Affiliation=&PROGRAMNUMBER=225129
- - ICISDM 2023, Accepted
+ - AAO 2022 [Abstract], https://aaopt.org/past-meeting-abstract-archives/?SortBy=ArticleYear&ArticleType=&ArticleYear=2022&Title=&Abstract=&Authors=&Affiliation=&PROGRAMNUMBER=225129
+ - ICISDM 2023 [Full Paper], Accepted
 
 ## If you are interested in machine learning-ready data, this repo presents a dataset spanning multiple standardized glaucoma datasets.
 https://github.com/TheBeastCoding/standardized-multichannel-dataset-glaucoma [pending release]
