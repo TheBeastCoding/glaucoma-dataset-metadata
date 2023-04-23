@@ -7,7 +7,7 @@ To ease the accessibilty of glaucoma-related AI research, this repo is designed 
  - ICISDM 2023 [Full Paper], Accepted
 
 ## If you are interested in machine learning-ready data, this repo presents a dataset spanning multiple standardized glaucoma datasets.
-https://github.com/TheBeastCoding/standardized-multichannel-dataset-glaucoma [pending release]
+https://github.com/TheBeastCoding/standardized-multichannel-dataset-glaucoma [released!]
 
 ## Example data
 Drishti-GS |   G1020 |   ORIGA-light |   REFUGE1-VAL |   PAPILA
