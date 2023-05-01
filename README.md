@@ -53,5 +53,6 @@ Drishti-GS |   G1020 |   ORIGA-light |   REFUGE1-VAL |   PAPILA
 | RIM-ONE-r3 | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/  | open | Y | N |
 | RIM-ONE-DL | http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/  | open | Y | N |
 | SIGF | https://github.com/XiaofeiWang2018/DeepGF | request | Y | N |
+| SMDG | https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset | registration | Y | N/A |
 | sjchoi86-HRF | https://github.com/yiweichen04/retina_dataset | open | Y | Y |
 | VEIRC | https://github.com/ProfMKD/Glaucoma-dataset | open | Y | N |
