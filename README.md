@@ -27,6 +27,7 @@ Drishti-GS |   G1020 |   ORIGA-light |   REFUGE1-VAL |   PAPILA
 | DRIONS-DB  | https://www.researchgate.net/publication/326460478_Glaucoma_dataset_-_DRIONS-DB  | open | N | N |
 | DRISHTI-GS1  | https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php  | open | Y | Y |
 | EyePACS-AIROGS | https://airogs.grand-challenge.org/data-and-challenge/ | open | Y | Y |
+| EyePACS-AIROGS-light | https://www.kaggle.com/datasets/deathtrooper/eyepacs-airogs-light | registration | Y | N |
 | FIVES | https://figshare.com/articles/figure/FIVES_A_Fundus_Image_Dataset_for_AI-based_Vessel_Segmentation/19688169/1 | open | Y | Y |
 | G1020 | https://www.kaggle.com/datasets/arnavjain1/glaucoma-datasets | registration | Y | Y |
 | GAMMA | https://gamma.grand-challenge.org/ | registration | Y | N |
