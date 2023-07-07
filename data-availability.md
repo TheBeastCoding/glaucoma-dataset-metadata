@@ -26,29 +26,26 @@ This table presents the dataset image and segmentation type availability.
 | CRFO-v4       |               |       X       |      X        |   X           |               |               |               |         X     |       X       |               |               |               |
 | DRISHTI-GS1   |               |       X       |      X        |   X           |               |               |               |               |               |               |               |               |
 | DR-HAGIS      |               |       X       |               |               |         X     |               |               |               |               |               |               |               |
-
-
-
-| EyePACS-AIROGS | mix | United States | NR |
-| FIVES | Hangzhou, Zhejiang | China | 2016 - 2021 |
-| G1020 | Kaiserslautern | Germany | 2005 - 2017 |
-| HRF | NR | Germany, Czech Republic  | NR |
-| INSPIRE-AVR | Iowa | United States | NR |
-| INSPIRE-S | Iowa | United States | NR |
-| JSIEC-1000 | Guangdong | China | 2009 - 2018 |
-| KEH | Seoul | Korea | NR |
-| LAG | Bejing | China | NR |
-| LES-AV | NR | NR | NR |
-| OCTV | NR | United States | 2008 - 2016 |
-| OIA-ODIR | mix | China | NR |
-| ORIGA-light | southwestern | Singapore | Full Fundus | 2004 - 2007 |
-| PAPILA | Murcia | Spain | 2018 - 2020  |
-| REFUGE | Guangzhou | China | NR |
-| RIM-ONE-r1 | Tenerife, Zaragoza, and Madrid | Spain | NR |
-| RIM-ONE-r2 | Tenerife, Zaragoza | Spain | NR |
-| RIM-ONE-r3 | Tenerife | Spain | NR |
-| RIM-ONE-DL | Tenerife, Zaragoza, and Madrid | Spain | NR |
-| SIGF | NR | NR | 1986 - 2018 |
-| sjchoi86-HRF | NR | NR | NR |
-| SMDG (v19) | mix | mix | mix |
-| VEIRC | New Delhi  | India | NR |
+| EyePACS-AIROGS|               |       X       |               |               |               |               |               |               |               |               |               |               |
+| FIVES         |               |       X       |               |               |         X     |               |               |               |               |               |               |               |
+| G1020         |               |       X       |      X        |   X           |               |               |               |               |               |               |               |               |
+| HRF           |               |       X       |               |               |         X     |               |               |               |               |               |               |               |
+| INSPIRE-AVR   |               |       X       |               |               |               |               |               |               |               |               |               |               |
+| INSPIRE-S     |     X         |               |        X      |               |               |               |               |               |               |               |               |               |
+| JSIEC-1000    |               |       X       |               |               |               |               |               |               |               |               |               |               |
+| KEH           |     X         |               |               |               |               |               |               |               |               |               |               |               |
+| LAG           |               |       X       |               |               |               |               |               |               |               |               |               |        X      |
+| LES-AV        |               |       X       |               |               |         X     |       X       |        X      |               |               |               |               |               |
+| OCTV          |               |               |               |               |               |               |               |       X       |               |               |               |               |
+| OIA-ODIR      |               |       X       |               |               |               |               |               |               |               |               |               |               |
+| ORIGA-light   |               |       X       |      X        |   X           |               |               |               |               |               |               |               |               |
+| PAPILA        |               |       X       |      X        |   X           |               |               |               |               |               |               |               |               |
+| REFUGE        |               |       X       |      X        |   X           |               |               |               |               |               |               |               |               |
+| RIM-ONE-r1    |     X         |               |      X        |               |               |               |               |               |               |               |               |               |
+| RIM-ONE-r2    |     X         |               |      X        |               |               |               |               |               |               |               |               |               |
+| RIM-ONE-r3    |     X         |               |      X        |       X       |               |               |               |               |               |               |               |               |
+| RIM-ONE-DL    |     X         |               |               |               |               |               |               |               |               |               |               |               |
+| SIGF          |     X         |               |               |               |               |               |               |               |               |               |               |               |
+| sjchoi86-HRF  |               |       X       |               |               |               |               |               |               |               |               |               |               |
+| SMDG (v19)    |      X        |       X       |     X         |       X       |         X     |      X        |       X       |        X      |         X     |       X       |        X      |      X        |
+| VEIRC         |               |       X       |               |               |               |               |               |               |               |               |               |               |
