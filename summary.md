@@ -12,9 +12,12 @@ This table presents the class breakdown (healthy and glaucoma), the image type, 
 - MG = Moderate Glaucoma
 - DG = Deep/Severe/Advanced Glaucoma
 - SG = Suspect Glaucoma
+- OCT = Ocular Coherence Tomography
+- AS-OCT = Anterior Segment OCT
+- SD-OCT = Spectral Domain OCT
 - *Contains other non-glaucoma diseases. 
 
-## Information Table
+## Data Table
 | Dataset   | Total Healthy | Total Glaucoma | Image Type | Glaucoma Types |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | AGE  | 0  | 4800 | AS-OCT | CAG, OAG |
