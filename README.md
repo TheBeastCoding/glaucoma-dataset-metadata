@@ -4,6 +4,7 @@
 ## Repository Table of Contents
 - README.md : Glaucoma overview, relevant research, and dataset access links
 - summary.md : Dataset class breakdown, image types, and glaucoma types
+- origin.md : Dataset collection origin and collection years.
 
 ## Glaucoma Overview
 According to AAO, "Glaucoma is a disease that damages your eye’s optic nerve. It usually happens when fluid builds up in the front part of your eye. That extra fluid increases the pressure in your eye, damaging the optic nerve". It is a leading cause of blindness and worsens over time if left untreated. Optometrists diagnose glaucoma through fundus images (a 2D image of the eye) or ocular coherence tomography (OCT) images (a 3D image of the eye). In fundus images, optometrists typically look for optic cup or optic disc damage. In OCT images, optometrists typically look for layer atrophy. To automate the detection of glaucoma, datasets are curated for machine learning. Fundus image datasets are typically designed for either glaucoma classification to distinguish healthy for glaucoma or optic nerve head segmentation to extract and analyze cup or disc damage. High-quality benchmark datasets like EyePACS-AIROGS-light have predetermined train, validation, and test sets for reproducibility.
