@@ -29,7 +29,7 @@ This table presents the dataset collection origin (city/state/region/country) an
 | OIA-ODIR | mix | China | NR |
 | ORIGA-light | southwestern | Singapore | Full Fundus | 2004 - 2007 |
 | PAPILA | Murcia | Spain | 2018 - 2020  |
-| REFUGE | Guangzhou | China |  |
+| REFUGE | Guangzhou | China | NR |
 | RIM-ONE-r1 | Tenerife, Zaragoza, and Madrid | Spain | NR |
 | RIM-ONE-r2 | Tenerife, Zaragoza | Spain | NR |
 | RIM-ONE-r3 | Tenerife | Spain | NR |
