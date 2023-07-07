@@ -1,5 +1,5 @@
 # Public Glaucoma Dataset Catalog
-[Update: Exciting news! This repository will be receiving a major overhaul with new documentation information soon. There will be extensive documentation on each dataset for researchers to easily isolate which datasets best fit their needs (classification, segmentation, text data)]
+[Help expand this repository by providing links/publications to new glaucoma datasets!]
 
 ## Repository Table of Contents
 - README.md : Glaucoma overview, relevant research, and dataset access links
