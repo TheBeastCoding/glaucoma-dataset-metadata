@@ -1,14 +1,17 @@
 # Public Glaucoma Dataset Catalog
 [Update: Exciting news! This repository will be receiving a major overhaul with new documentation information soon. There will be extensive documentation on each dataset for researchers to easily isolate which datasets best fit their needs (classification, segmentation, text data)]
 
+## Repository Table of Contents
+- README.md : Glaucoma overview and dataset access links
+- summary.md : Dataset class breakdown, image types, and glaucoma types
 
-To ease the accessibility of glaucoma-related AI research, this repo is designed to quickly navigate and download various public glaucoma datasets. Secondly, this repo details some of the metadata that has been presented in the following articles:
- - AAO 2022 [Abstract], https://aaopt.org/past-meeting-abstract-archives/?SortBy=ArticleYear&ArticleType=&ArticleYear=2022&Title=&Abstract=&Authors=&Affiliation=&PROGRAMNUMBER=225129
- - ICISDM 2023 [Full Paper], Accepted
-
-## If you are interested in machine learning-ready data, I have curated novel datasets for various glaucoma tasks
- - Balanced Binary Classification Train/Val/Test Set: https://www.kaggle.com/datasets/deathtrooper/eyepacs-airogs-light
- - Combinational Dataset for Cup/Disc/Blood-Vessel Segmentation and Unbalanced Binary Classification: https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset
+## Relevant Glaucoma Research (by me)
+ - AAO 2022 [Abstract], "A Comprehensive Survey of Publicly Available Glaucoma Datasets for Automated Glaucoma Detection", https://aaopt.org/past-meeting-abstract-archives/?SortBy=ArticleYear&ArticleType=&ArticleYear=2022&Title=&Abstract=&Authors=&Affiliation=&PROGRAMNUMBER=225129
+ - ARVO 2023 [Abstract], "Ground truth validation of publicly available datasets utilized in artificial intelligence models for glaucoma detection", https://iovs.arvojournals.org/article.aspx?articleid=2791017
+ - ARVO 2023 [Abstract], "Standardized and Open-Access Glaucoma Dataset for Artificial Intelligence Applications", https://iovs.arvojournals.org/article.aspx?articleid=2790420
+ - IEEE-IEMCOM 2022 [Full Paper], "A Survey of Glaucoma Detection Algorithms using Fundus and OCT Images", https://ieeexplore.ieee.org/abstract/document/9946629
+ - SMDG-19 [Dataset], "Standardized Multi-Channel Dataset for Glaucoma, Version 19", https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset
+ - EyePACS-AIROGS-light [Dataset], "EyePACS Artificial Intelligence for Robust Glaucoma Screening Challenge, Lightweight Version", https://www.kaggle.com/datasets/deathtrooper/eyepacs-airogs-light
 
 ## Example data
 Drishti-GS |   G1020 |   ORIGA-light |   REFUGE1-VAL |   PAPILA
