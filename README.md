@@ -4,6 +4,7 @@
 ## Repository Table of Contents
 - README.md : Glaucoma overview, relevant research, and dataset access links
 - summary.md : Dataset class breakdown, image types, and glaucoma types
+- data-availability.md : Dataset image and segmentation availability.
 - origin.md : Dataset collection origin and collection years.
 
 ## Glaucoma Overview
