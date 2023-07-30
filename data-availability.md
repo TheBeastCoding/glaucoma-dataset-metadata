@@ -47,5 +47,4 @@ This table presents the dataset image and segmentation type availability.
 | RIM-ONE-DL    |     X         |               |               |               |               |               |               |               |               |               |               |               |
 | SIGF          |     X         |               |               |               |               |               |               |               |               |               |               |               |
 | sjchoi86-HRF  |               |       X       |               |               |               |               |               |               |               |               |               |               |
-| SMDG (v19)    |      X        |       X       |     X         |       X       |         X     |      X        |       X       |        X      |         X     |       X       |        X      |      X        |
 | VEIRC         |               |       X       |               |               |               |               |               |               |               |               |               |               |
