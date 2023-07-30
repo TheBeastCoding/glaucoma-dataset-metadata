@@ -59,5 +59,5 @@ This table presents the class breakdown (healthy and glaucoma), the image type, 
 | RIM-ONE-DL (hospital-test) | 118 | 56 | Cropped Fundus | DG, EG, MG, SG, UG |
 | SIGF | 3303 | 368 | Cropped Fundus | UG |
 | sjchoi86-HRF | 300 | 101 | Full Fundus | UG |
-| SMDG (v19) | 300 | 101 | Full Fundus | UG |
-| VEIRC | 7499 | 4946 | Full Fundus | many |
+| SMDG (v19) | 7499 | 4946 | Full Fundus | many |
+| VEIRC | 225 | 139 | Full Fundus | UG |
