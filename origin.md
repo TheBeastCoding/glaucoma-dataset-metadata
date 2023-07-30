@@ -18,6 +18,7 @@ This table presents the dataset collection origin (city/state/region/country) an
 | EyePACS-AIROGS | mix | United States | NR |
 | FIVES | Hangzhou, Zhejiang | China | 2016 - 2021 |
 | G1020 | Kaiserslautern | Germany | 2005 - 2017 |
+| HARVARD-GF | Cambridge, Massachusetts | United States  | NR |
 | HRF | NR | Germany, Czech Republic  | NR |
 | INSPIRE-AVR | Iowa | United States | NR |
 | INSPIRE-S | Iowa | United States | NR |
