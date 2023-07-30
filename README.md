@@ -41,6 +41,7 @@ Drishti-GS |   G1020 |   ORIGA-light |   REFUGE1-VAL |   PAPILA
 | G1020 | https://www.kaggle.com/datasets/arnavjain1/glaucoma-datasets | registration | Y |
 | GAMMA | https://gamma.grand-challenge.org/ | registration | Y |
 | GOALS | https://goals.grand-challenge.org/ | registration | Y |
+| Harvard-GF | https://ophai.hms.harvard.edu/datasets/harvard-glaucoma-fairness-3300-samples/ | request | N |
 | HRF  | https://www5.cs.fau.de/research/data/fundus-images/  | open | Y |
 | INSPIRE-AVR-test | https://medicine.uiowa.edu/eye/inspire-datasets | open | N |
 | INSPIRE-STEREO | https://medicine.uiowa.edu/eye/inspire-datasets | open | N |
