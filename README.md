@@ -3,6 +3,7 @@
 
 ## Repository Table of Contents
 - README.md : Glaucoma overview, relevant research, and dataset access links
+- benchmark-eyepacs-airogs-light.md : Leaderboard for the test set evaluation using the train/val sets of the EyePACS-AIROGS-light dataset
 - summary.md : Dataset class breakdown, image types, and glaucoma types
 - data-availability.md : Dataset image and segmentation availability.
 - origin.md : Dataset collection origin and collection years.
