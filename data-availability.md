@@ -29,6 +29,7 @@ This table presents the dataset image and segmentation type availability.
 | EyePACS-AIROGS|               |       X       |               |               |               |               |               |               |               |               |               |               |
 | FIVES         |               |       X       |               |               |         X     |               |               |               |               |               |               |               |
 | G1020         |               |       X       |      X        |   X           |               |               |               |               |               |               |               |               |
+| GRAPE         |     X         |       X       |      X        |   X           |               |               |               |               |               |               |               |         X     |
 | HARVARD-GF    |               |               |               |               |               |               |               |        X      |               |               |               |         X     |
 | HRF           |               |       X       |               |               |         X     |               |               |               |               |               |               |               |
 | INSPIRE-AVR   |               |       X       |               |               |               |               |               |               |               |               |               |               |
