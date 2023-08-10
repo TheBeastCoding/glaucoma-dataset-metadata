@@ -37,6 +37,7 @@ This table presents the class breakdown (healthy and glaucoma), the image type, 
 | EyePACS-AIROGS-light (test) | 500 | 500 | Full Fundus | RG |
 | FIVES | 200 | 200 | Full Fundus | CAG, OAG |
 | G1020 | 724 | 296 | Full Fundus | UG |
+| GRAPE | 0 | 631 | Cropped and Full Fundus | OAG, CAG |
 | HARVARD-GF-TRAIN | unknown (2100 total) | unknown (2100 total)  | 3D OCT B-scans | UG |
 | HARVARD-GF-VAL | unknown (300 total) | unknown (300 total)  | 3D OCT B-scans | UG |
 | HARVARD-GF-TEST | unknown (900 total) | unknown (900 total)  | 3D OCT B-scans | UG |
