@@ -24,9 +24,16 @@ Drishti-GS |   G1020 |   ORIGA-light |   REFUGE1-VAL |   PAPILA
 --- | --- | --- | --- | ---
 <img src="https://user-images.githubusercontent.com/65875562/204176385-9402294e-7b82-4ea3-a1cd-f44e8423ca4f.png" width="128"> |<img src="https://user-images.githubusercontent.com/65875562/204176473-f95150ed-161a-496e-bf44-5af1fa23d736.jpg" width="128"> | <img src="https://user-images.githubusercontent.com/65875562/204176324-eb665daf-60f0-4333-ae77-b78c8e2d038f.jpg" width="128"> | <img src="https://user-images.githubusercontent.com/65875562/204176603-03c21546-2bcf-4e73-b522-ffdacc61ae91.jpg" width="128"> | <img src="https://user-images.githubusercontent.com/65875562/204176775-c4d557c6-ecfc-49a1-a854-b338f5850337.jpg" width="128">
 
+ ## Use Case Acronyms
+- IQA = Image Quality Assesment
+- BGC = Binary Glaucoma Classification
+- ODS = Optic Disc Segmentation
+- OCS = Optic Cup Segmentation
+- BVS = Blood Vessel Segmentation
+  
 ## Public Glaucoma Image Datasets
-| Dataset   | Access Link | Accessibility | Glaucoma Labels? |
-| ------------- | ------------- | ------------- | ------------- |
+| Dataset   | Access Link | Accessibility | Glaucoma Labels? | Use Case |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | ACRIMA  | https://figshare.com/s/c2d31f850af14c5b5232  | open | Y |
 | AGE  | https://age.grand-challenge.org/Download/  | registration | Y |
 | BEH (Bangladesh Eye Hospital) | https://github.com/mirtanvirislam/Deep-Learning-Based-Glaucoma-Detection-with-Cropped-Optic-Cup-and-Disc-and-Blood-Vessel-Segmentation/tree/master/Dataset | open | Y |
@@ -51,7 +58,7 @@ Drishti-GS |   G1020 |   ORIGA-light |   REFUGE1-VAL |   PAPILA
 | KEH (Kim's Eye Hospital) | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1YRRAC | open | Y |
 | LAG | https://github.com/smilell/AG-CNN | request | Y |
 | LES-AV | https://figshare.com/articles/dataset/LES-AV_dataset/11857698/1 | open | Y |
-| MSHF | https://www.nature.com/articles/s41597-023-02188-x#ref-CR17 | open | Y |
+| MSHF | https://www.nature.com/articles/s41597-023-02188-x#ref-CR17 | open | Y | BGC, IQA |
 | OCTV | https://zenodo.org/record/1481223#.Y20g3XbMIuV | open | Y |
 | OIA-ODIR | https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k | registration | Y |
 | ONHSD | https://aldiri.info/Image%20Datasets/ONHSD.aspx | inaccessible | Y |
