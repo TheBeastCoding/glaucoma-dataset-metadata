@@ -49,6 +49,7 @@ This table presents the class breakdown (healthy and glaucoma), the image type, 
 | KEH | 788 | 756 | Cropped Fundus | DG, EG |
 | LAG | 3882 | 4875 | Full Fundus | UG |
 | LES-AV | 11 | 11 | Full Fundus | NTG, OAG |
+| MSHF | 26 | 52 | Full Fundus | UG |
 | OCTV | 263 | 847 | OCT Volume | OAG |
 | OIA-ODIR (test-offline)| 435 | 36 | Full Fundus | UG |
 | OIA-ODIR (test-online)| 843 | 58 | Full Fundus | UG |
