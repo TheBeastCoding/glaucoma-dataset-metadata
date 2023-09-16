@@ -38,6 +38,7 @@ This table presents the dataset image and segmentation type availability.
 | KEH           |     X         |               |               |               |               |               |               |               |               |               |               |               |
 | LAG           |               |       X       |               |               |               |               |               |               |               |               |               |        X      |
 | LES-AV        |               |       X       |               |               |         X     |       X       |        X      |               |               |               |               |               |
+| MSHF          |               |       X       |               |               |               |               |               |               |               |               |               |               |
 | OCTV          |               |               |               |               |               |               |               |       X       |               |               |               |               |
 | OIA-ODIR      |               |       X       |               |               |               |               |               |               |               |               |               |               |
 | ORIGA-light   |               |       X       |      X        |   X           |               |               |               |               |               |               |               |               |
