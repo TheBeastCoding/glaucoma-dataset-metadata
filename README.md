@@ -27,20 +27,24 @@ Drishti-GS |   G1020 |   ORIGA-light |   REFUGE1-VAL |   PAPILA
  ## Use Case Acronyms
 - IQA = Image Quality Assesment
 - BGC = Binary Glaucoma Classification
+- MGC = Multi Glaucoma Classification
+- NGC = Non-Standard Glaucoma Classification
 - ODS = Optic Disc Segmentation
 - OCS = Optic Cup Segmentation
 - BVS = Blood Vessel Segmentation
+- LT = Localization Task
+- MDI = Multi Domain Input
   
 ## Public Glaucoma Image Datasets
 | Dataset   | Access Link | Accessibility | Glaucoma Labels? | Use Case |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ACRIMA  | https://figshare.com/s/c2d31f850af14c5b5232  | open | Y |
-| AGE  | https://age.grand-challenge.org/Download/  | registration | Y |
-| BEH (Bangladesh Eye Hospital) | https://github.com/mirtanvirislam/Deep-Learning-Based-Glaucoma-Detection-with-Cropped-Optic-Cup-and-Disc-and-Blood-Vessel-Segmentation/tree/master/Dataset | open | Y |
-| BIOMISA | https://data.mendeley.com/datasets/2rnnz5nz74/2  | open | Y |
-| Chaksu-IMAGE | https://doi.org/10.6084/m9.figshare.20123135 | open | Y |
-| CRFO-v4 | https://data.mendeley.com/datasets/trghs22fpg/4 | open | Y |
-| DR-HAGIS | https://personalpages.manchester.ac.uk/staff/niall.p.mcloughlin/ | open | Y |
+| ACRIMA  | https://figshare.com/s/c2d31f850af14c5b5232  | open | Y | BGC |
+| AGE  | https://age.grand-challenge.org/Download/  | registration | Y | NGC, LT |
+| BEH (Bangladesh Eye Hospital) | https://github.com/mirtanvirislam/Deep-Learning-Based-Glaucoma-Detection-with-Cropped-Optic-Cup-and-Disc-and-Blood-Vessel-Segmentation/tree/master/Dataset | open | Y | BGC |
+| BIOMISA | https://data.mendeley.com/datasets/2rnnz5nz74/2  | open | Y | MDI |
+| Chaksu-IMAGE | https://doi.org/10.6084/m9.figshare.20123135 | open | Y | BGC |
+| CRFO-v4 | https://data.mendeley.com/datasets/trghs22fpg/4 | open | Y | BGC, MDI, ODS, OCS |
+| DR-HAGIS | https://personalpages.manchester.ac.uk/staff/niall.p.mcloughlin/ | open | Y | NGC, BVS |
 | DRIONS-DB  | https://www.researchgate.net/publication/326460478_Glaucoma_dataset_-_DRIONS-DB  | open | N |
 | DRISHTI-GS1  | https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php  | open | Y |
 | EyePACS-AIROGS | https://airogs.grand-challenge.org/data-and-challenge/ | open | Y |
