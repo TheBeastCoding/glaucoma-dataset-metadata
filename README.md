@@ -25,17 +25,19 @@ Drishti-GS |   G1020 |   ORIGA-light |   REFUGE1-VAL |   PAPILA
 <img src="https://user-images.githubusercontent.com/65875562/204176385-9402294e-7b82-4ea3-a1cd-f44e8423ca4f.png" width="128"> |<img src="https://user-images.githubusercontent.com/65875562/204176473-f95150ed-161a-496e-bf44-5af1fa23d736.jpg" width="128"> | <img src="https://user-images.githubusercontent.com/65875562/204176324-eb665daf-60f0-4333-ae77-b78c8e2d038f.jpg" width="128"> | <img src="https://user-images.githubusercontent.com/65875562/204176603-03c21546-2bcf-4e73-b522-ffdacc61ae91.jpg" width="128"> | <img src="https://user-images.githubusercontent.com/65875562/204176775-c4d557c6-ecfc-49a1-a854-b338f5850337.jpg" width="128">
 
  ## Use Case Acronyms
-- IQA = Image Quality Assesment
-- BGC = Binary Glaucoma Classification (healthy vs glaucoma or non-glaucoma vs. glaucoma)
-- MGC = Multi Glaucoma Classification (at least 2 glaucoma types, including suspect)
-- NGC = Non-Standard Glaucoma Classification
-- ODS = Optic Disc Segmentation
-- OCS = Optic Cup Segmentation
-- BVS = Blood Vessel Segmentation
-- OLS = OCT Layer Segmentation
-- LT = Localization Task
-- MIDI = Multi Image Domain Input
-- CDR = Cup-to-Disc Ratio Estimation
+- Classification
+    - BGC = Binary Glaucoma Classification (healthy vs. glaucoma or non-glaucoma vs. glaucoma)
+    - MGC = Multi Glaucoma Classification (at least 2 glaucoma types, including suspect)
+- Segmentation
+    - ODS = Optic Disc Segmentation
+    - OCS = Optic Cup Segmentation
+    - BVS = Blood Vessel Segmentation
+    - OLS = OCT Layer Segmentation
+- Other
+    - LT = Localization Task
+    - IQA = Image Quality Assesment
+    - MIDI = Multi Image Domain Input
+    - CDR = Cup-to-Disc Ratio Estimation
   
 ## Public Glaucoma Image Datasets
 | Dataset   | Access Link | Accessibility | Glaucoma Labels? | Use Case |
