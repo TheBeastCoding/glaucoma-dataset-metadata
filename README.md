@@ -43,7 +43,7 @@ Drishti-GS |   G1020 |   ORIGA-light |   REFUGE1-VAL |   PAPILA
 | Dataset   | Access Link | Accessibility | Glaucoma Labels? | Use Case |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ACRIMA  | https://figshare.com/s/c2d31f850af14c5b5232  | open | Y | BGC |
-| AGE  | https://age.grand-challenge.org/Download/  | registration | Y | NGC, LT |
+| AGE  | https://age.grand-challenge.org/Download/  | registration | Y | MGC, LT |
 | BEH (Bangladesh Eye Hospital) | https://github.com/mirtanvirislam/Deep-Learning-Based-Glaucoma-Detection-with-Cropped-Optic-Cup-and-Disc-and-Blood-Vessel-Segmentation/tree/master/Dataset | open | Y | BGC |
 | BIOMISA | https://data.mendeley.com/datasets/2rnnz5nz74/2  | open | Y | MGC, BGC, MIDI, OLS, CDR |
 | Chaksu-IMAGE | https://doi.org/10.6084/m9.figshare.20123135 | open | Y | BGC |
