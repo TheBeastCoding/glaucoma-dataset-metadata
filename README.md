@@ -48,7 +48,7 @@ Drishti-GS |   G1020 |   ORIGA-light |   REFUGE1-VAL |   PAPILA
 | BIOMISA | https://data.mendeley.com/datasets/2rnnz5nz74/2  | open | Y | MGC, BGC, MIDI, OLS, CDR |
 | Chaksu-IMAGE | https://doi.org/10.6084/m9.figshare.20123135 | open | Y | BGC |
 | CRFO-v4 | https://data.mendeley.com/datasets/trghs22fpg/4 | open | Y | BGC, MDI, ODS, OCS |
-| DR-HAGIS | https://personalpages.manchester.ac.uk/staff/niall.p.mcloughlin/ | open | Y | NGC, BVS |
+| DR-HAGIS | https://personalpages.manchester.ac.uk/staff/niall.p.mcloughlin/ | open | Y | BGC, BVS |
 | DRIONS-DB  | https://www.researchgate.net/publication/326460478_Glaucoma_dataset_-_DRIONS-DB  | open | N |
 | DRISHTI-GS1  | https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php  | open | Y |
 | EyePACS-AIROGS | https://airogs.grand-challenge.org/data-and-challenge/ | open | Y |
