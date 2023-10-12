@@ -13,6 +13,8 @@ According to AAO, "Glaucoma is a disease that damages your eye’s optic nerve. 
 
 ## Relevant Glaucoma Research (by me)
  - AAO 2022 [Abstract], "A Comprehensive Survey of Publicly Available Glaucoma Datasets for Automated Glaucoma Detection", https://aaopt.org/past-meeting-abstract-archives/?SortBy=ArticleYear&ArticleType=&ArticleYear=2022&Title=&Abstract=&Authors=&Affiliation=&PROGRAMNUMBER=225129
+ - AAO 2023 [Abstract], "The Predictive Power of Fundus Blood Vessels in Glaucoma Detection", accepted as a presentation for AAO 2023
+ - AAO 2023 [Abstract], "EyePACS-light: A Lightweight Balanced Dataset for Automated Glaucoma Classification Modeling", acceoted as a poster for AAO 2023 
  - ARVO 2023 [Abstract], "Ground truth validation of publicly available datasets utilized in artificial intelligence models for glaucoma detection", https://iovs.arvojournals.org/article.aspx?articleid=2791017
  - ARVO 2023 [Abstract], "Standardized and Open-Access Glaucoma Dataset for Artificial Intelligence Applications", https://iovs.arvojournals.org/article.aspx?articleid=2790420
  - IEEE-IEMCOM 2022 [Full Paper], "A Survey of Glaucoma Detection Algorithms using Fundus and OCT Images", https://ieeexplore.ieee.org/abstract/document/9946629
