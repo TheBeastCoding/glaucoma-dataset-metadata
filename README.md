@@ -40,6 +40,7 @@ Drishti-GS |   G1020 |   ORIGA-light |   REFUGE1-VAL |   PAPILA
     - IQA = Image Quality Assesment
     - MIDI = Multi Image Domain Input
     - CDR = Cup-to-Disc Ratio Estimation
+    - N = Notching
   
 ## Public Glaucoma Image Datasets
 | Dataset   | Access Link | Accessibility | Glaucoma Labels? | Use Case |
@@ -51,12 +52,12 @@ Drishti-GS |   G1020 |   ORIGA-light |   REFUGE1-VAL |   PAPILA
 | Chaksu-IMAGE | https://doi.org/10.6084/m9.figshare.20123135 | open | Y | BGC |
 | CRFO-v4 | https://data.mendeley.com/datasets/trghs22fpg/4 | open | Y | BGC, MDI, ODS, OCS |
 | DR-HAGIS | https://personalpages.manchester.ac.uk/staff/niall.p.mcloughlin/ | open | Y | BGC, BVS |
-| DRIONS-DB  | https://www.researchgate.net/publication/326460478_Glaucoma_dataset_-_DRIONS-DB  | open | N |
-| DRISHTI-GS1  | https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php  | open | Y |
-| EyePACS-AIROGS | https://airogs.grand-challenge.org/data-and-challenge/ | open | Y |
-| EyePACS-AIROGS-light | https://www.kaggle.com/datasets/deathtrooper/eyepacs-airogs-light | registration | Y |
-| FIVES | https://figshare.com/articles/figure/FIVES_A_Fundus_Image_Dataset_for_AI-based_Vessel_Segmentation/19688169/1 | open | Y |
-| G1020 | https://www.kaggle.com/datasets/arnavjain1/glaucoma-datasets | registration | Y |
+| DRIONS-DB  | https://www.researchgate.net/publication/326460478_Glaucoma_dataset_-_DRIONS-DB  | open | N | ODS |
+| DRISHTI-GS1  | https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php  | open | Y | BGC, ODS, OCS, CDR, N |
+| EyePACS-AIROGS | https://airogs.grand-challenge.org/data-and-challenge/ | open | Y | BGC, IQA |
+| EyePACS-AIROGS-light | https://www.kaggle.com/datasets/deathtrooper/eyepacs-airogs-light | registration | Y | BGC |
+| FIVES | https://figshare.com/articles/figure/FIVES_A_Fundus_Image_Dataset_for_AI-based_Vessel_Segmentation/19688169/1 | open | Y | BGC, BVS |
+| G1020 | https://www.kaggle.com/datasets/arnavjain1/glaucoma-datasets | registration | Y | BGC, ODS, OCS |
 | GAMMA | https://gamma.grand-challenge.org/ | registration | Y |
 | GOALS | https://goals.grand-challenge.org/ | registration | Y |
 | GRAPE | https://springernature.figshare.com/collections/GRAPE_A_multi-modal_glaucoma_dataset_of_follow-up_visual_field_and_fundus_images_for_glaucoma_management/6406319/1 | open | Y |
