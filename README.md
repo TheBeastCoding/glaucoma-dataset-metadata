@@ -18,6 +18,7 @@ According to AAO, "Glaucoma is a disease that damages your eye’s optic nerve. 
  - ARVO 2023 [Abstract], "Ground truth validation of publicly available datasets utilized in artificial intelligence models for glaucoma detection", https://iovs.arvojournals.org/article.aspx?articleid=2791017
  - ARVO 2023 [Abstract], "Standardized and Open-Access Glaucoma Dataset for Artificial Intelligence Applications", https://iovs.arvojournals.org/article.aspx?articleid=2790420
  - IEEE-IEMCOM 2022 [Full Paper], "A Survey of Glaucoma Detection Algorithms using Fundus and OCT Images", https://ieeexplore.ieee.org/abstract/document/9946629
+ - IEEE-ICIVC 2023 [Full Paper], "Automated Fundus Image Standardization Using a Dynamic Global Foreground Threshold Algorithm", https://ieeexplore.ieee.org/abstract/document/10270429
  - SMDG-19 [Dataset], "Standardized Multi-Channel Dataset for Glaucoma, Version 19", https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset
  - EyePACS-AIROGS-light [Dataset], "EyePACS Artificial Intelligence for Robust Glaucoma Screening Challenge, Lightweight Version", https://www.kaggle.com/datasets/deathtrooper/eyepacs-airogs-light
 
