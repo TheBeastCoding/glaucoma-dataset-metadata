@@ -1,3 +1,5 @@
+* Update: SMDG-19 has been taken down by Kaggle moderators *
+
 # Public Glaucoma Dataset Catalog
 [Help expand this repository by providing links/publications to new glaucoma datasets!]
 
@@ -19,6 +21,7 @@ According to AAO, "Glaucoma is a disease that damages your eye’s optic nerve. 
  - ARVO 2023 [Abstract], "Standardized and Open-Access Glaucoma Dataset for Artificial Intelligence Applications", https://iovs.arvojournals.org/article.aspx?articleid=2790420
  - IEEE-IEMCOM 2022 [Full Paper], "A Survey of Glaucoma Detection Algorithms using Fundus and OCT Images", https://ieeexplore.ieee.org/abstract/document/9946629
  - IEEE-ICIVC 2023 [Full Paper], "Automated Fundus Image Standardization Using a Dynamic Global Foreground Threshold Algorithm", https://ieeexplore.ieee.org/abstract/document/10270429
+ - ICISDM 2023 [Full Paper], "A Catalog of Public Glaucoma Datasets for Machine Learning Applications", https://dl.acm.org/doi/abs/10.1145/3603765.3603779
  - SMDG-19 [Dataset], "Standardized Multi-Channel Dataset for Glaucoma, Version 19", https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset
  - EyePACS-AIROGS-light [Dataset], "EyePACS Artificial Intelligence for Robust Glaucoma Screening Challenge, Lightweight Version", https://www.kaggle.com/datasets/deathtrooper/eyepacs-airogs-light
 
