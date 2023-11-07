@@ -1,4 +1,4 @@
-* Update: SMDG-19 has been taken down by Kaggle moderators *
+* Update: SMDG-19 is now back online *
 
 # Public Glaucoma Dataset Catalog
 [Help expand this repository by providing links/publications to new glaucoma datasets!]
