@@ -39,12 +39,14 @@ Drishti-GS |   G1020 |   ORIGA-light |   REFUGE1-VAL |   PAPILA
     - OCS = Optic Cup Segmentation
     - BVS = Blood Vessel Segmentation
     - OLS = OCT Layer Segmentation
+    - RNFLS = Retinal Nerve Fiber Layer Segmentation
 - Other
     - LT = Localization Task
     - IQA = Image Quality Assesment
     - MIDI = Multi Image Domain Input
     - CDR = Cup-to-Disc Ratio Estimation
     - N = Notching
+    - VF = Visual Field Information/Segmentation
   
 ## Public Glaucoma Image Datasets
 | Dataset   | Access Link | Accessibility | Glaucoma Labels? | Use Case |
@@ -62,11 +64,11 @@ Drishti-GS |   G1020 |   ORIGA-light |   REFUGE1-VAL |   PAPILA
 | EyePACS-AIROGS-light | https://www.kaggle.com/datasets/deathtrooper/eyepacs-airogs-light | registration | Y | BGC |
 | FIVES | https://figshare.com/articles/figure/FIVES_A_Fundus_Image_Dataset_for_AI-based_Vessel_Segmentation/19688169/1 | open | Y | BGC, BVS |
 | G1020 | https://www.kaggle.com/datasets/arnavjain1/glaucoma-datasets | registration | Y | BGC, ODS, OCS |
-| GAMMA | https://gamma.grand-challenge.org/ | registration | Y |
-| GOALS | https://goals.grand-challenge.org/ | registration | Y |
-| GRAPE | https://springernature.figshare.com/collections/GRAPE_A_multi-modal_glaucoma_dataset_of_follow-up_visual_field_and_fundus_images_for_glaucoma_management/6406319/1 | open | Y |
-| Harvard-GF | https://ophai.hms.harvard.edu/datasets/harvard-glaucoma-fairness-3300-samples/ | request | N |
-| HRF  | https://www5.cs.fau.de/research/data/fundus-images/  | open | Y |
+| GAMMA | https://gamma.grand-challenge.org/ | registration | Y | BGC?, ODS, OCS, OLS?, LT, MIDI |
+| GOALS | https://ichallenges.grand-challenge.org/iChallenge-GON3/ | registration | Y | BGC, OLS |
+| GRAPE | https://springernature.figshare.com/collections/GRAPE_A_multi-modal_glaucoma_dataset_of_follow-up_visual_field_and_fundus_images_for_glaucoma_management/6406319/1 | open | Y | MGC, VF |
+| Harvard-GF | https://ophai.hms.harvard.edu/datasets/harvard-glaucoma-fairness-3300-samples/ | request | N | BGC, VF, RNFLS, MIDI |
+| HRF | https://www5.cs.fau.de/research/data/fundus-images/  | open | Y |
 | INSPIRE-AVR-test | https://medicine.uiowa.edu/eye/inspire-datasets | open | N |
 | INSPIRE-STEREO | https://medicine.uiowa.edu/eye/inspire-datasets | open | N |
 | JSIEC-1000 | https://www.kaggle.com/datasets/linchundan/fundusimage1000 | registration | Y |
