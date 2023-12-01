@@ -1,4 +1,6 @@
+## New Updates
 * Update: SMDG-19 is now back online *
+* EyePACS-light-V2 is in development: more samples, higher resolution samples, ... *
 
 # Public Glaucoma Dataset Catalog
 [Help expand this repository by providing links/publications to new glaucoma datasets!]
