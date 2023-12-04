@@ -1,8 +1,6 @@
 ## New Updates
 * Update: SMDG-19 is now back online
 * EyePACS-light-V2 is in development: more samples, higher resolution samples, ...
-* Sneak peak the impact of the new data for binary glaucoma classification improves the generalizability to the validation set:
-![image](https://github.com/TheBeastCoding/glaucoma-dataset-metadata/assets/65875562/b04b2cd6-2e4f-4542-8194-bce36e55cbbd)
 
 # Public Glaucoma Dataset Catalog
 [Help expand this repository by providing links/publications to new glaucoma datasets!]
