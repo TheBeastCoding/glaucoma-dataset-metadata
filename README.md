@@ -1,7 +1,6 @@
 ## New Updates
-* Update: SMDG-19 is now back online
-* EyePACS-light-V2 is in development: more samples, higher resolution samples, ...
-* New 1st place entry on EyePACS-light: 93.5% using pretrained Xception
+* EyePACS-light-V2 is HERE!!! Be the first to benchmark your model with this improved dataset!
+* Kaggle Download Link: https://www.kaggle.com/datasets/deathtrooper/glaucoma-dataset-eyepacs-airogs-light-v2/data
 
 # Public Glaucoma Dataset Catalog
 [Help expand this repository by providing links/publications to new glaucoma datasets!]
@@ -64,7 +63,8 @@ Drishti-GS |   G1020 |   ORIGA-light |   REFUGE1-VAL |   PAPILA
 | DRIONS-DB  | https://www.researchgate.net/publication/326460478_Glaucoma_dataset_-_DRIONS-DB  | open | N | ODS |
 | DRISHTI-GS1  | https://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php  | open | Y | BGC, ODS, OCS, CDR, N |
 | EyePACS-AIROGS | https://airogs.grand-challenge.org/data-and-challenge/ | open | Y | BGC, IQA |
-| EyePACS-AIROGS-light | https://www.kaggle.com/datasets/deathtrooper/eyepacs-airogs-light | registration | Y | BGC |
+| EyePACS-AIROGS-light (v1) | https://www.kaggle.com/datasets/deathtrooper/eyepacs-airogs-light | registration | Y | BGC |
+| EyePACS-AIROGS-light (v2) | https://www.kaggle.com/datasets/deathtrooper/glaucoma-dataset-eyepacs-airogs-light-v2 | registration | Y | BGC |
 | FIVES | https://figshare.com/articles/figure/FIVES_A_Fundus_Image_Dataset_for_AI-based_Vessel_Segmentation/19688169/1 | open | Y | BGC, BVS |
 | G1020 | https://www.kaggle.com/datasets/arnavjain1/glaucoma-datasets | registration | Y | BGC, ODS, OCS |
 | GAMMA | https://gamma.grand-challenge.org/ | registration | Y | BGC?, ODS, OCS, OLS?, LT, MIDI |
