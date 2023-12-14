@@ -1,4 +1,4 @@
-## EyePACS-AIROGS-light Benchmark Leaderboard
+## EyePACS-AIROGS-light (v1) Benchmark Leaderboard
 Dataset Found Here: https://www.kaggle.com/datasets/deathtrooper/eyepacs-airogs-light
 
 | Rank          |       Method  |       Author  |         Date  |         Test Accuracy  | Link |
