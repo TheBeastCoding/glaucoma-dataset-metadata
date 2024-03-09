@@ -1,4 +1,5 @@
 ## New Updates
+* 03/09/24 : EyePACS-light-V2 now has a 10.0 Kaggle usability score: supplemental metadata.csv file added to dataset.
 * 01/20/24 : EyePACS-light-V2 preprocess high-level overview is now available on the Kaggle dataset link in the about section (scroll all the way down) if you are curious on how the dataset was derived
 * 12/28/23 : EyePACS-light-V2 94.94% test accuracy benchmark using ConvNeXtTiny: https://www.kaggle.com/code/deathtrooper/benchmark-94-94-convnexttiny
 * 12/12/23 : EyePACS-light-V2 is HERE!!! Be the first to benchmark your model with this improved dataset! Download from kaggle: https://www.kaggle.com/datasets/deathtrooper/glaucoma-dataset-eyepacs-airogs-light-v2/data
