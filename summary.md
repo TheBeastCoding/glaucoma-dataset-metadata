@@ -8,6 +8,7 @@ This table presents the class breakdown (healthy and glaucoma), the image type, 
 - CSG = Chronic Simple Glaucoma
 - RG = Referable Glaucoma
 - NTG = Normal Tension Glaucoma
+- HTG = High Tension Glaucoma
 - EG = Early Glaucoma
 - MG = Moderate Glaucoma
 - DG = Deep/Severe/Advanced Glaucoma
@@ -49,6 +50,7 @@ This table presents the class breakdown (healthy and glaucoma), the image type, 
 | KEH | 788 | 756 | Cropped Fundus | DG, EG |
 | LAG | 3882 | 4875 | Full Fundus | UG |
 | LES-AV | 11 | 11 | Full Fundus | NTG, OAG |
+| Leuven-Haifa HRF | 56? | 138? | Full Fundus | NTG, HTG |
 | MSHF | 26 | 52 | Full Fundus | UG |
 | OCTV | 263 | 847 | OCT Volume | OAG |
 | OIA-ODIR (test-offline)| 435 | 36 | Full Fundus | UG |
