@@ -79,6 +79,7 @@ Drishti-GS |   G1020 |   ORIGA-light |   REFUGE1-VAL |   PAPILA
 | KEH (Kim's Eye Hospital) | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1YRRAC | open | Y |
 | LAG | https://github.com/smilell/AG-CNN | request | Y |
 | LES-AV | https://figshare.com/articles/dataset/LES-AV_dataset/11857698/1 | open | Y |
+| Leuven-Haifa HRF | https://rdr.kuleuven.be/dataset.xhtml?persistentId=doi:10.48804/Z7SHGO | request | Y | MGC, BVS |
 | MSHF | https://www.nature.com/articles/s41597-023-02188-x#ref-CR17 | open | Y | BGC, IQA |
 | OCTV | https://zenodo.org/record/1481223#.Y20g3XbMIuV | open | Y |
 | OIA-ODIR | https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k | registration | Y |
