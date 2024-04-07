@@ -4,6 +4,11 @@
 * 12/28/23 : EyePACS-light-V2 94.94% test accuracy benchmark using ConvNeXtTiny: https://www.kaggle.com/code/deathtrooper/benchmark-94-94-convnexttiny
 * 12/12/23 : EyePACS-light-V2 is HERE!!! Be the first to benchmark your model with this improved dataset! Download from kaggle: https://www.kaggle.com/datasets/deathtrooper/glaucoma-dataset-eyepacs-airogs-light-v2/data
 
+## Citation Note
+If you found this catalog helpful, please consider citing the following:
+- Riley Kiefer, Muhammad Abid, Jessica Steen, Mahsa Raeisi Ardali, and Ehsan Amjadian. 2023. A Catalog of Public Glaucoma Datasets for Machine Learning Applications: A detailed description and analysis of public glaucoma datasets available to machine learning engineers tackling glaucoma-related problems using retinal fundus images and OCT images. In Proceedings of the 2023 7th International Conference on Information System and Data Mining (ICISDM '23). Association for Computing Machinery, New York, NY, USA, 24–31. https://doi.org/10.1145/3603765.3603779
+
+
 # Public Glaucoma Dataset Catalog
 [Help expand this repository by providing links/publications to new glaucoma datasets!]
 
@@ -17,6 +22,11 @@
 ## Glaucoma Overview
 According to AAO, "Glaucoma is a disease that damages your eye’s optic nerve. It usually happens when fluid builds up in the front part of your eye. That extra fluid increases the pressure in your eye, damaging the optic nerve". It is a leading cause of blindness and worsens over time if left untreated. Optometrists diagnose glaucoma through fundus images (a 2D image of the eye) or ocular coherence tomography (OCT) images (a 3D image of the eye). In fundus images, optometrists typically look for optic cup or optic disc damage. In OCT images, optometrists typically look for layer atrophy. To automate the detection of glaucoma, datasets are curated for machine learning. Fundus image datasets are typically designed for either glaucoma classification to distinguish healthy for glaucoma or optic nerve head segmentation to extract and analyze cup or disc damage. High-quality benchmark datasets like EyePACS-AIROGS-light have predetermined train, validation, and test sets for reproducibility.
 
+## Relevant Glaucoma Datasets (by me)
+ - SMDG-19 [Dataset], "Standardized Multi-Channel Dataset for Glaucoma, Version 19", https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset
+ - EyePACS-AIROGS-light-v1 [Dataset], "EyePACS Artificial Intelligence for Robust Glaucoma Screening Challenge, Lightweight Version 1", https://www.kaggle.com/datasets/deathtrooper/eyepacs-airogs-light
+ - EyePACS-AIROGS-light-v2 [Dataset], "EyePACS Artificial Intelligence for Robust Glaucoma Screening Challenge, Lightweight Version 2", https://www.kaggle.com/datasets/deathtrooper/glaucoma-dataset-eyepacs-airogs-light-v2
+
 ## Relevant Glaucoma Research (by me)
  - AAO 2022 [Abstract], "A Comprehensive Survey of Publicly Available Glaucoma Datasets for Automated Glaucoma Detection", https://aaopt.org/past-meeting-abstract-archives/?SortBy=ArticleYear&ArticleType=&ArticleYear=2022&Title=&Abstract=&Authors=&Affiliation=&PROGRAMNUMBER=225129
  - AAO 2023 [Abstract], "The Predictive Power of Fundus Blood Vessels in Glaucoma Detection", accepted as a presentation for AAO 2023
@@ -26,8 +36,6 @@ According to AAO, "Glaucoma is a disease that damages your eye’s optic nerve. 
  - IEEE-IEMCOM 2022 [Full Paper], "A Survey of Glaucoma Detection Algorithms using Fundus and OCT Images", https://ieeexplore.ieee.org/abstract/document/9946629
  - IEEE-ICIVC 2023 [Full Paper], "Automated Fundus Image Standardization Using a Dynamic Global Foreground Threshold Algorithm", https://ieeexplore.ieee.org/abstract/document/10270429
  - ICISDM 2023 [Full Paper], "A Catalog of Public Glaucoma Datasets for Machine Learning Applications", https://dl.acm.org/doi/abs/10.1145/3603765.3603779
- - SMDG-19 [Dataset], "Standardized Multi-Channel Dataset for Glaucoma, Version 19", https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset
- - EyePACS-AIROGS-light [Dataset], "EyePACS Artificial Intelligence for Robust Glaucoma Screening Challenge, Lightweight Version", https://www.kaggle.com/datasets/deathtrooper/eyepacs-airogs-light
 
 ## Example data
 Drishti-GS |   G1020 |   ORIGA-light |   REFUGE1-VAL |   PAPILA
