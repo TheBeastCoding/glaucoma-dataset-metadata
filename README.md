@@ -1,4 +1,5 @@
 ## New Updates
+* 05/15/24 : The EyePACS-light-V2 code folder on Kaggle has a new PyTorch template for quick and easy glaucoma detection setup. This model uses the lightweight MobileNetV3 and achieved a test accuracy of 92.6%: https://www.kaggle.com/code/deathtrooper/pytorch-easy-setup-for-glaucoma-detection-92-6
 * 03/09/24 : EyePACS-light-V2 now has a 10.0 Kaggle usability score: supplemental metadata.csv file added to dataset.
 * 01/20/24 : EyePACS-light-V2 preprocess high-level overview is now available on the Kaggle dataset link in the about section (scroll all the way down) if you are curious on how the dataset was derived
 * 12/28/23 : EyePACS-light-V2 94.94% test accuracy benchmark using ConvNeXtTiny: https://www.kaggle.com/code/deathtrooper/benchmark-94-94-convnexttiny
