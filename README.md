@@ -1,4 +1,5 @@
 ## New Updates
+* 08/03/24 : A new abstract is available to the public, introducing a novel approach to glaucoma detection: Assessment of Retinal Vasculature for Glaucoma Detection: A Comparative Analysis of Human Expertise and Deep Learning Algorithms.
 * 05/15/24 : The EyePACS-light-V2 code folder on Kaggle has a new PyTorch template for quick and easy glaucoma detection setup. This model uses the lightweight MobileNetV3 and achieved a test accuracy of 92.6%: https://www.kaggle.com/code/deathtrooper/pytorch-easy-setup-for-glaucoma-detection-92-6
 * 03/09/24 : EyePACS-light-V2 now has a 10.0 Kaggle usability score: supplemental metadata.csv file added to dataset.
 * 01/20/24 : EyePACS-light-V2 preprocess high-level overview is now available on the Kaggle dataset link in the about section (scroll all the way down) if you are curious on how the dataset was derived
@@ -29,6 +30,7 @@ According to AAO, "Glaucoma is a disease that damages your eye’s optic nerve. 
  - EyePACS-AIROGS-light-v2 [Dataset], "EyePACS Artificial Intelligence for Robust Glaucoma Screening Challenge, Lightweight Version 2", https://www.kaggle.com/datasets/deathtrooper/glaucoma-dataset-eyepacs-airogs-light-v2
 
 ## Relevant Glaucoma Research (by me)
+ - ARVO 2024 [Abstract], "Assessment of Retinal Vasculature for Glaucoma Detection: A Comparative Analysis of Human Expertise and Deep Learning Algorithms", https://iovs.arvojournals.org/article.aspx?articleid=2794846
  - AAO 2022 [Abstract], "A Comprehensive Survey of Publicly Available Glaucoma Datasets for Automated Glaucoma Detection", https://aaopt.org/past-meeting-abstract-archives/?SortBy=ArticleYear&ArticleType=&ArticleYear=2022&Title=&Abstract=&Authors=&Affiliation=&PROGRAMNUMBER=225129
  - AAO 2023 [Abstract], "The Predictive Power of Fundus Blood Vessels in Glaucoma Detection", accepted as a presentation for AAO 2023
  - AAO 2023 [Abstract], "EyePACS-light: A Lightweight Balanced Dataset for Automated Glaucoma Classification Modeling", accepted as a poster for AAO 2023 
