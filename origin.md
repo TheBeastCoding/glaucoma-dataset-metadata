@@ -17,6 +17,7 @@ This table presents the dataset collection origin (city/state/region/country) an
 | DR-HAGIS | Sandbach | United Kingdom | NR |
 | EyePACS-AIROGS | mix | United States | NR |
 | FIVES | Hangzhou, Zhejiang | China | 2016 - 2021 |
+| Fundus-AVSeg | Shenzhen Eye Hospital | China | January and March 2022 |
 | G1020 | Kaiserslautern | Germany | 2005 - 2017 |
 | GRAPE |  Hangzhou | China | 2015 - 2022 |
 | HARVARD-GF | Cambridge, Massachusetts | United States  | NR |
