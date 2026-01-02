@@ -5,8 +5,8 @@ This table presents the dataset collection origin (city/state/region/country) an
 - NR = Not Reported
 
 ## Data Table
-| Dataset   | Collection City/State/Region  | Collection Country  | Collection Years  |
-| ------------- | ------------- | ------------- | ------------- |
+| Dataset   | Collection City/State/Region  | Collection Country  | Collection Years  | Age Range  | Sex Distribution  |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | AGE  | Guangzhou  | China | 2016 - 2019  |
 | ACRIMA  | Valencia  | Spain | NR |
 | BEH | Dhaka | Bangladesh | 2019 - 2020 |
@@ -20,7 +20,7 @@ This table presents the dataset collection origin (city/state/region/country) an
 | G1020 | Kaiserslautern | Germany | 2005 - 2017 |
 | GRAPE |  Hangzhou | China | 2015 - 2022 |
 | HARVARD-GF | Cambridge, Massachusetts | United States  | NR |
-| HYGD | Hillel Yaffe Ophthalmology Department Glaucoma Unit, Hadera | Israel  | 2022 - 2024 |
+| HYGD | Hillel Yaffe Ophthalmology Department Glaucoma Unit, Hadera | Israel  | 2022 - 2024 | 35 - 95 | 50% Male |
 | HRF | NR | Germany, Czech Republic  | NR |
 | INSPIRE-AVR | Iowa | United States | NR |
 | INSPIRE-S | Iowa | United States | NR |
