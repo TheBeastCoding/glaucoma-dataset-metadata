@@ -20,6 +20,7 @@ This table presents the dataset collection origin (city/state/region/country) an
 | G1020 | Kaiserslautern | Germany | 2005 - 2017 |
 | GRAPE |  Hangzhou | China | 2015 - 2022 |
 | HARVARD-GF | Cambridge, Massachusetts | United States  | NR |
+| HYGD | Hillel Yaffe Ophthalmology Department Glaucoma Unit, Hadera | Israel  | 2022 - 2024 |
 | HRF | NR | Germany, Czech Republic  | NR |
 | INSPIRE-AVR | Iowa | United States | NR |
 | INSPIRE-S | Iowa | United States | NR |
