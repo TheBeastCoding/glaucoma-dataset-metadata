@@ -1,4 +1,5 @@
 ## New Updates
+* 01/01/2026 : Adding new dataset, Hillel Yaffe Glaucoma Dataset (HYGD), https://physionet.org/content/hillel-yaffe-glaucoma-dataset/1.0.0/
 * 08/03/24 : A new abstract is available to the public, introducing a novel approach to glaucoma detection: Assessment of Retinal Vasculature for Glaucoma Detection: A Comparative Analysis of Human Expertise and Deep Learning Algorithms.
 * 05/15/24 : The EyePACS-light-V2 code folder on Kaggle has a new PyTorch template for quick and easy glaucoma detection setup. This model uses the lightweight MobileNetV3 and achieved a test accuracy of 92.6%: https://www.kaggle.com/code/deathtrooper/pytorch-easy-setup-for-glaucoma-detection-92-6
 * 03/09/24 : EyePACS-light-V2 now has a 10.0 Kaggle usability score: supplemental metadata.csv file added to dataset.
@@ -84,6 +85,7 @@ Drishti-GS |   G1020 |   ORIGA-light |   REFUGE1-VAL |   PAPILA
 | GOALS | https://ichallenges.grand-challenge.org/iChallenge-GON3/ | registration | Y | BGC, OLS |
 | GRAPE | https://springernature.figshare.com/collections/GRAPE_A_multi-modal_glaucoma_dataset_of_follow-up_visual_field_and_fundus_images_for_glaucoma_management/6406319/1 | open | Y | MGC, VF |
 | Harvard-GF | https://ophai.hms.harvard.edu/datasets/harvard-glaucoma-fairness-3300-samples/ | request | N | BGC, VF, RNFLS, MIDI |
+| Hillel Yaffe Glaucoma Dataset (HYGD) | https://physionet.org/content/hillel-yaffe-glaucoma-dataset/1.0.0/  | open | Y | BGC, IQA |
 | HRF | https://www5.cs.fau.de/research/data/fundus-images/  | open | Y |
 | INSPIRE-AVR-test | https://medicine.uiowa.edu/eye/inspire-datasets | open | N |
 | INSPIRE-STEREO | https://medicine.uiowa.edu/eye/inspire-datasets | open | N |
