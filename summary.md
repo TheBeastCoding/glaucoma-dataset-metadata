@@ -17,11 +17,13 @@ This table presents the class breakdown (healthy and glaucoma), the image type, 
 - OCT = Ocular Coherence Tomography
 - AS-OCT = Anterior Segment OCT
 - SD-OCT = Spectral Domain OCT
-- *Contains other non-glaucoma diseases. 
+- DR = Diabetic Retinopathy
+- AMD = Age-related Macular Degeneration
+- - *Contains other non-glaucoma diseases.
 
 ## Data Table
-| Dataset   | Total Healthy | Total Glaucoma | Image Type | Glaucoma Types |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Dataset   | Total Healthy | Total Glaucoma | Image Type | Glaucoma Types | Other Diseases |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | AGE  | 0  | 4800 | AS-OCT | CAG, OAG |
 | ACRIMA  | 309  | 396 | Cropped Fundus | UG |
 | BEH | 463 | 171 | Full Fundus | UG |
@@ -38,6 +40,7 @@ This table presents the class breakdown (healthy and glaucoma), the image type, 
 | EyePACS-AIROGS-light (val) | 270 | 270 | Full Fundus | RG |
 | EyePACS-AIROGS-light (test) | 500 | 500 | Full Fundus | RG |
 | FIVES | 200 | 200 | Full Fundus | CAG, OAG |
+| Fundus-AVSeg | 40 | 20 | Full Fundus | UG (AAO Compliant) | Contains DR (20) and AMD (20) |
 | G1020 | 724 | 296 | Full Fundus | UG |
 | GRAPE | 0 | 631 | Cropped and Full Fundus | OAG, CAG |
 | HARVARD-GF-TRAIN | unknown (2100 total) | unknown (2100 total)  | 3D OCT B-scans | UG |
