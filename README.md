@@ -1,5 +1,5 @@
 ## New Updates
-* 01/01/2026 : Adding new dataset, Hillel Yaffe Glaucoma Dataset (HYGD), https://physionet.org/content/hillel-yaffe-glaucoma-dataset/1.0.0/
+* 01/01/2026 : Adding new dataset, Hillel Yaffe Glaucoma Dataset (HYGD), https://physionet.org/content/hillel-yaffe-glaucoma-dataset/1.0.0/ and Fundus-AVSeg [https://figshare.com/articles/dataset/Fundus-AVSeg/27938034?file=54093641]
 * 08/03/24 : A new abstract is available to the public, introducing a novel approach to glaucoma detection: Assessment of Retinal Vasculature for Glaucoma Detection: A Comparative Analysis of Human Expertise and Deep Learning Algorithms.
 * 05/15/24 : The EyePACS-light-V2 code folder on Kaggle has a new PyTorch template for quick and easy glaucoma detection setup. This model uses the lightweight MobileNetV3 and achieved a test accuracy of 92.6%: https://www.kaggle.com/code/deathtrooper/pytorch-easy-setup-for-glaucoma-detection-92-6
 * 03/09/24 : EyePACS-light-V2 now has a 10.0 Kaggle usability score: supplemental metadata.csv file added to dataset.
@@ -80,6 +80,7 @@ Drishti-GS |   G1020 |   ORIGA-light |   REFUGE1-VAL |   PAPILA
 | EyePACS-AIROGS-light (v1) | https://www.kaggle.com/datasets/deathtrooper/eyepacs-airogs-light | registration | Y | BGC |
 | EyePACS-AIROGS-light (v2) | https://www.kaggle.com/datasets/deathtrooper/glaucoma-dataset-eyepacs-airogs-light-v2 | registration | Y | BGC |
 | FIVES | https://figshare.com/articles/figure/FIVES_A_Fundus_Image_Dataset_for_AI-based_Vessel_Segmentation/19688169/1 | open | Y | BGC, BVS |
+| Fundus-AVSeg | https://figshare.com/articles/dataset/Fundus-AVSeg/27938034?file=54093641 | open | Y | BGC, BVS, IQA |
 | G1020 | https://www.kaggle.com/datasets/arnavjain1/glaucoma-datasets | registration | Y | BGC, ODS, OCS |
 | GAMMA | https://gamma.grand-challenge.org/ | registration | Y | BGC?, ODS, OCS, OLS?, LT, MIDI |
 | GOALS | https://ichallenges.grand-challenge.org/iChallenge-GON3/ | registration | Y | BGC, OLS |
