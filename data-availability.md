@@ -31,6 +31,7 @@ This table presents the dataset image and segmentation type availability.
 | G1020         |               |       X       |      X        |   X           |               |               |               |               |               |               |               |               |
 | GRAPE         |     X         |       X       |      X        |   X           |               |               |               |               |               |               |               |         X     |
 | HARVARD-GF    |               |               |               |               |               |               |               |        X      |               |               |               |         X     |
+| HYGD          |      X        |               |               |               |               |               |               |               |               |               |               |               |
 | HRF           |               |       X       |               |               |         X     |               |               |               |               |               |               |               |
 | INSPIRE-AVR   |               |       X       |               |               |               |               |               |               |               |               |               |               |
 | INSPIRE-S     |     X         |               |        X      |               |               |               |               |               |               |               |               |               |
