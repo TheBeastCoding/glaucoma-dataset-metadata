@@ -9,6 +9,7 @@ This table presents the class breakdown (healthy and glaucoma), the image type, 
 - RG = Referable Glaucoma
 - NTG = Normal Tension Glaucoma
 - HTG = High Tension Glaucoma
+- Glaucomatous optic neuropathy (GON)
 - EG = Early Glaucoma
 - MG = Moderate Glaucoma
 - DG = Deep/Severe/Advanced Glaucoma
@@ -42,6 +43,7 @@ This table presents the class breakdown (healthy and glaucoma), the image type, 
 | HARVARD-GF-TRAIN | unknown (2100 total) | unknown (2100 total)  | 3D OCT B-scans | UG |
 | HARVARD-GF-VAL | unknown (300 total) | unknown (300 total)  | 3D OCT B-scans | UG |
 | HARVARD-GF-TEST | unknown (900 total) | unknown (900 total)  | 3D OCT B-scans | UG |
+| HYGD | 199 non-glaucomatous | 548 glaucomatous  | Full Fundus | GON (labels derived from full ophthalmic examination) |
 | HRF | 15 | 15 | Full Fundus | UG |
 | INSPIRE-AVR (test) | 0 | 40 | Full Fundus | OAG |
 | INSPIRE-S (fundus) | 0 | 30 | Stereo Fundus | UG |
